@@ -3,13 +3,13 @@
 目路结构：
 ./你的项目名字/项目根目录
 比如
-
-|根目录|
-|     |—— hjb_hc360  项目名
-|         |—— src    .py源码
-|         |—— result ./.scv .txt数据
-|
-|     |—— zsl_hc360
-|         |—— src    .py源码
-|         |—— result ./.scv .txt数据
-|        
+### 根目录目录结构
+    |根目录|
+    |     |—— hjb_hc360  项目名
+    |         |—— src    .py源码
+    |         |—— result ./.scv .txt数据
+    |
+    |     |—— zsl_hc360
+    |         |—— src    .py源码
+    |         |—— result ./.scv .txt数据
+    |        
