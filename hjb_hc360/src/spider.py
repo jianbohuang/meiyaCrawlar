@@ -13,11 +13,11 @@ class Fetcher():
            self.host='%s/' % self.host
         self.user_agent=('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
                          '(KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36')
+        # self.headers = {'User-Agent': self.user_agent}
         self.proxy_support=None
         self.opener=None
         self._setOpener(proxy,cookie)
         self.referer='http://js.hc360.com/cn/'
-
 
     def _setOpener(self,proxy=None,cookie=None):
         self.proxy_support = urllib2.ProxyHandler(proxy)
@@ -49,7 +49,7 @@ class Fetcher():
         req = urllib2.Request(url, None, self.getHeader())
         for i in xrange(times):
             try:
-                response = urllib2.urlopen(req, timeout=5)
+                response = urllib2.urlopen(req,timeout=5)
                 if response.geturl() != req.get_full_url():
                     # if response.code==302:
                     print 'Warning:重定向到验证码,url=%s,times=%s' % (req.get_full_url(), i)
@@ -77,13 +77,14 @@ class Fetcher():
                         print 'Warning:网站正在建设中,url=%s,times=%s' % (response.geturl(), i)
                     else:
                         print 'Warning:被封->%s url=%s,times=%s' % (response.response.read(),response.geturl(), i)
+                    time.sleep(3)  # 暂停1s TODO:换IP
                     continue
                 else:
                     content = response.read()
                     # content=content.decode('gbk').encode('utf-8')
                     return content
             except urllib2.HTTPError, e:
-                time.sleep(1)  # 暂停1s
+                time.sleep(3)  # 暂停1s
                 print 'HTTPError:code=%s,reason=%s,times=%s,%s' % (e.code, e.reason, i,url)
                 continue
         return None
@@ -116,10 +117,14 @@ class Fetcher():
         et=etree.HTML(content, parser=etree.HTMLParser(encoding='gbk'))  #默认用utf-8
         c_name=et.xpath('//div[@class="c-name"]')
         company_list=[]
-        for div in c_name:
-            name = div.xpath('./a/text()')[0]
-            href=div.xpath('./a/@href')[0]
-            company_list.append((name, href))
+        if len(c_name)<=0:
+            return company_list
+        for div in c_name:  #公司名字存在空名字，过滤掉
+            name = div.xpath('./a/text()')
+            href = div.xpath('./a/@href')
+            if len(name)<=0 or len(href)<=0:
+                continue
+            company_list.append((name[0], href[0]))
         if len(company_list) <= 0:
             print 'Error: parseCN:prase nothing!'
         return  company_list
@@ -134,15 +139,16 @@ class Fetcher():
         try:
             f = open(filename, 'a')
             for line in companys:
-                str='%s,%s,%s\n' % (self.getTime(),line[0],line[1])#时间 名称 url
-                f.write(str.encode('gbk'))  #从unicode专为gbk
+                s='%s,%s,%s\n' % (self.getTime(),line[0],line[1])#时间 名称 url
+                s=s.strip().replace(u'\u2006','')  #公司名字存在非GBK编码空格字符，要去掉
+                f.write(s.encode('gbk'))  #从unicode专为gbk
                 write_num+=1
         finally:
             f.close()
         #print 'writeList2file:open fail'
         return write_num
 
-    #伪造头文件
+    #伪造头文件,伪造referer指向上一个位置
     def getHeader(self):
         """ 冒充百度spider的UserAgent"""
         header = {}
@@ -150,7 +156,7 @@ class Fetcher():
         baidu='Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)'
         Safari='Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B137 Safari/601.1'
         Android='Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
-        header['User-Agent'] = Android
+        header['User-Agent'] = baidu
         header['Accept'] = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
         header['Accept-Encoding']='gzip, deflate, sdch'
         header['Accept-Language'] = 'zh-CN,zh;q=0.8'
@@ -212,8 +218,16 @@ def crawOneArea(fetcher,province,saveFile):
     start += len(pLeft)
     page_con = content[start:pLeft.find('页', start)].strip()
     fail_con=0
-    for page_num in xrange(2,len(page_con)+1):  #do-while形式
+    for page_num in xrange(1,len(page_con)+1):
         time.sleep(1)
+        url = fetcher.getAreaUrl(province, page_num)
+        content = fetcher.downLoadCN(url, 6)
+        if content==None:
+            with open('../result/fail_url.txt','a') as f:  # 记录下来
+                f.write('%s,%s'%(fetcher.getTime(),url))
+                f.close()
+            fail_con+=1
+            continue
         company_list=fetcher.parseCN(content)
         if len(company_list) <= 0:
             fail_con+=1
@@ -221,11 +235,9 @@ def crawOneArea(fetcher,province,saveFile):
             continue
         write_num = fetcher.writeList2file(company_list, saveFile)
         print 'Debug:province=%s page=%s write_num=%s' % (province,page_num,write_num)
-        url=fetcher.getAreaUrl(province,page_num)
-        content = fetcher.downLoadCN(url, 5)
+
 
     print '---end crawling province=%s,%s---' % (province, fetcher.getTime())
-
 
 
 if __name__=='__main__':
