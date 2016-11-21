@@ -1,0 +1,2805 @@
+2440
+1200 /zouping 邹平县
+643 /yonghe 永和县
+344 /changsha 长沙
+345 /sanya 三亚
+346 /beitun 北屯
+340 /taiwan 台湾
+341 /hongkong 香港
+342 /macau 澳门
+594 /tunliu 屯留县
+2310 /sansha 三沙
+298 /shangluo 商洛
+299 /lanzhou 兰州
+296 /yulin 榆林
+297 /ankang 安康
+294 /yanan 延安
+295 /hanzhong 汉中
+292 /xianyang 咸阳
+293 /weinan 渭南
+290 /tongchuan 铜川
+291 /baoji 宝鸡
+587 /zuoyun 左云县
+270 /baoshan 保山
+1271 /xcxiangcheng 襄城县
+272 /chuxiongzhou 楚雄州
+273 /honghe 红河
+274 /wenshan 文山州
+275 /puer 普洱
+276 /xishuangbanna 西双版纳
+277 /dali 大理州
+278 /dehong 德宏
+279 /lijiang 丽江
+2146 /dongxiangzu 东乡族自治县
+2268 /tacheng 塔城市
+2269 /wusu 乌苏市
+2262 /gongliu 巩留县
+2263 /xinyuan 新源县
+2260 /yiningxian 伊宁县
+2261 /huocheng 霍城县
+2266 /nileke 尼勒克县
+2267 /chabuchaer 察布查尔锡伯自治县
+2264 /zhaosu 昭苏县
+2265 /tekesi 特克斯县
+1781 /shibing 施秉县
+108 /zhejiangtaizhou 台州
+109 /lishui 丽水
+102 /jiaxing 嘉兴
+103 /huzhou 湖州
+100 /suqian 宿迁
+101 /wenzhou 温州
+106 /quzhou 衢州
+107 /zhoushan 舟山
+104 /shaoxing 绍兴
+105 /jinhua 金华
+2046 /longxian 陇县
+2047 /qianyang 千阳县
+2044 /fufeng 扶风县
+2045 /bjmeixian 眉县
+2042 /fengxiang 凤翔县
+2043 /qishan 岐山县
+2040 /chunhua 淳化县
+2041 /wugong 武功县
+2048 /linyou 麟游县
+2049 /fengxianxian 凤县
+1373 /xianfeng 咸丰县
+1213 /xingyang 荥阳市
+1372 /xuanen 宣恩县
+1001 /ninghua 宁化县
+3519 /wanrongxian 万荣县
+3518 /yclinyixian 临猗县
+3513 /wuzhen 乌镇
+3512 /xitang 西塘
+3511 /zhouzhuang 周庄
+3510 /bazhouqu 巴州区
+3517 /rongchengxian 容城县
+3516 /sanxia 三峡
+3515 /wudangshan 武当山
+3514 /sanqingshan 三清山
+1000 /qingliu 清流县
+99 /taizhou 泰州
+98 /zhenjiang 镇江
+91 /daxinganling 大兴安岭
+90 /suihua 绥化
+93 /changzhou 常州
+92 /xuzhou 徐州
+95 /lianyuangang 连云港
+94 /nantong 南通
+97 /yancheng 盐城
+96 /huaian 淮安
+1623 /beichuan 北川羌族自治县
+1990 /dingjie 定结县
+1621 /anxian 安县
+1992 /yadong 亚东县
+1627 /mianzhu 绵竹市
+1994 /nielamu 聂拉木县
+1997 /geer 噶尔县
+1996 /gangba 岗巴县
+1999 /zhada 札达县
+1998 /pulan 普兰县
+1629 /zhongjian 中江县
+1377 /changshaxian 长沙县
+559 /wuan 武安市
+558 /linxi 临西县
+555 /pingxiangxian 平乡县
+554 /guangzong 广宗县
+557 /qinghe 清河县
+556 /xtweixian 威县
+551 /ningjing 宁晋县
+550 /nanhe 南和县
+553 /xinhe 新河县
+552 /julu 巨鹿县
+1439 /xinning 新宁县
+1199 /boxing 博兴县
+1198 /zhanhua 沾化区
+1191 /xintai 新泰市
+1190 /liangshanxian 梁山县
+1193 /ningyang 宁阳县
+1192 /feicheng 肥城市
+1195 /huimin 惠民县
+1194 /dongping 东平县
+1197 /wudi 无棣县
+1196 /yangxin 阳信县
+1759 /guanling 关岭布依族苗族自治县
+1758 /puding 普定县
+1757 /pingba 平坝区
+1756 /wuchuanzzxian 务川仡佬族苗族自治县
+1755 /daozhen 道真仡佬族苗族自治县
+1754 /xishuixian 习水县
+1753 /yuqing 余庆县
+1752 /meitan 湄潭县
+1751 /fenggang 凤冈县
+1750 /zhengan 正安县
+1177 /feixian 费县
+1176 /pingyi 平邑县
+1175 /mengyin 蒙阴县
+1174 /yishui 沂水县
+1173 /junan 莒南县
+1172 /lanling 兰陵县
+1171 /tancheng 郯城县
+1170 /juxian 莒县
+1179 /linshu 临沭县
+1178 /yinan 沂南县
+511 /gaoyang 高阳县
+1006 /taining 泰宁县
+513 /xiongxian 雄县
+644 /xixian 隰县
+1285 /neixiang 内乡县
+1284 /zhenping 镇平县
+1287 /sheqi 社旗县
+1004 /shaxian 沙县
+1281 /nanzhao 南召县
+1280 /dengzhou 邓州市
+1283 /xixia 西峡县
+1282 /fangcheng 方城县
+1003 /youxi 尤溪县
+1289 /xinye 新野县
+1288 /tanghe 唐河县
+514 /quyang 曲阳县
+1579 /jingxi 靖西市
+1578 /debao 德保县
+689 /lingyuan 凌源市
+688 /beipiao 北票市
+685 /liaozhong 辽中区
+1572 /tiandeng 天等县
+1571 /daxin 大新县
+1570 /fusui 扶绥县
+1577 /pingguo 平果县
+680 /aershan 阿尔山市
+683 /duolun 多伦县
+1574 /longzhou 龙州县
+458 /kangbao 康保县
+459 /guyuanxian 沽源县
+1240 /yanjin 延津县
+621 /yushe 榆社县
+1224 /songxian 嵩县
+627 /qixian 祁县
+1222 /xinan 新安县
+625 /shouyang 寿阳县
+1220 /yanshi 偃师市
+1371 /badong 巴东县
+1370 /jianshixian 建始县
+405 /tumushuke 图木舒克
+2034 /qianxian 乾县
+1375 /hefeng 鹤峰县
+1374 /laifeng 来凤县
+401 /lingshui 陵水
+400 /lingao 临高县
+1379 /ningxiang 宁乡县
+1378 /wangcheng 望城县
+1342 /xishui 浠水县
+409 /wujiaqu 五家渠
+408 /wenchang 文昌
+1343 /qichun 蕲春县
+454 /yuanshi 元氏县
+455 /zhaoxian 赵县
+456 /xuanhua 宣化县
+457 /zhangbei 张北县
+1018 /zhaoan 诏安县
+1245 /linzhou 林州市
+1084 /yugan 余干县
+393 /chengmai 澄迈县
+392 /changjiang 昌江
+391 /baoting 保亭
+390 /baisha 白沙
+397 /jiyuan 济源
+396 /dongfang 东方
+395 /dingan 定安县
+394 /chongzuo 崇左
+399 /ledong 乐东
+398 /laibin 来宾
+895 /wuyixian 武义县
+2309 /xiangshan 象山
+2308 /ninghai 宁海
+2301 /youyang 酉阳土家族苗族自治县
+2300 /pengshui 彭水苗族土家族自治县
+2303 /gonghe 共和县
+2302 /xiushan 秀山土家族苗族自治县
+2305 /guide 贵德县
+2304 /tongde 同德县
+2307 /guinan 贵南县
+2306 /xinghai 兴海县
+3592 /zhongningxian 中宁县
+245 /neijiang 内江
+244 /suining 遂宁
+247 /nanchong 南充
+246 /leshan 乐山
+241 /deyang 德阳
+240 /luzhou 泸州
+243 /guangyuan 广元
+242 /mianyang 绵阳
+249 /yibin 宜宾
+248 /meishan 眉山
+2275 /aletai 阿勒泰市
+2274 /hebukesaier 和布克赛尔蒙古自治县
+2277 /fuyun 富蕴县
+2276 /buerjin 布尔津县
+2271 /shawan 沙湾县
+2270 /emin 额敏县
+2273 /yumin 裕民县
+2272 /tuoli 托里县
+2279 /habahe 哈巴河县
+2278 /fuhai 福海县
+646 /xiaoyi 孝义市
+179 /yichang 宜昌
+178 /shiyan 十堰
+177 /huangshi 黄石
+176 /zhumadian 驻马店
+175 /zhoukou 周口
+174 /xinyang 信阳
+2199 /pengyang 彭阳县
+172 /nanyang 南阳
+171 /sanmenxia 三门峡
+170 /luohe 漯河
+2051 /nanzheng 南郑县
+1502 /liumen 龙门县
+2053 /yangxian 洋县
+2052 /chenggu 城固县
+2055 /mianxian 勉县
+2054 /xixiang 西乡县
+2057 /lueyang 略阳县
+2056 /ningqiang 宁强县
+2059 /liuba 留坝县
+2058 /zhenba 镇巴县
+1500 /boluo 博罗县
+1501 /huidong 惠东县
+1506 /heshan 鹤山市
+653 /liulin 柳林县
+1504 /taishan 台山市
+1505 /kaiping 开平市
+3526 /pingluxian 平陆县
+3527 /ruichengxian 芮城县
+3524 /hengquxian 垣曲县
+3525 /xiaxian 夏县
+3522 /xinjiangxian 新绛县
+3523 /jiangxian 绛县
+3520 /wenxixian 闻喜县
+3521 /jishanxian 稷山县
+3528 /tuzuoqi 土默特左旗
+3529 /tuyouqi 土默特右旗
+1364 /zigui 秭归县
+271 /zhaotong 昭通
+1601 /zhaoping 昭平县
+1976 /longzi 隆子县
+1975 /jiacha 加查县
+1602 /zhongshanxian 钟山县
+1605 /pengzhou 彭州市
+1972 /qusong 曲松县
+1032 /shouning 寿宁县
+1971 /qiongjie 琼结县
+1970 /sangri 桑日县
+1362 /yuanan 远安县
+1968 /zhanang 扎囊县
+1969 /gongga 贡嘎县
+1618 /jianyou 江油市
+1619 /santai 三台县
+1964 /bomi 波密县
+1965 /chayu 察隅县
+1966 /langxian 朗县
+1967 /naidong 乃东区
+1960 /linzhixian 巴宜区
+1961 /gongbujiangda 工布江达县
+1962 /milin 米林县
+1963 /motuo 墨脱县
+1363 /xingshan 兴山县
+1768 /hezhang 赫章县
+1769 /weining 威宁彝族回族苗族自治县
+1762 /bijie 七星关区
+1763 /dafang 大方县
+1760 /zhenning 镇宁布依族苗族自治县
+1761 /ziyun 紫云苗族布依族自治县
+1766 /zhijin 织金县
+1767 /nayong 纳雍县
+1764 /qianxixian 黔西县
+1765 /jinsha 金沙县
+1142 /huantai 桓台县
+1143 /gaoqing 高青县
+1140 /lijin 利津县
+1141 /guangrao 广饶县
+1146 /cangyi 昌邑市
+1147 /gaomi 高密市
+1144 /yiyuan 沂源县
+1145 /anqiu 安丘市
+1148 /qingzhou 青州市
+1149 /zhucheng 诸城市
+692 /kalaqinzuiyi 喀喇沁左翼蒙古族自治县
+1547 /liujiang 柳江县
+1544 /lipu 荔浦县
+691 /jianping 建平县
+696 /kaiyuan 开原市
+1543 /pingle 平乐县
+694 /fuxinxian 阜新蒙古族自治县
+1541 /guanyang 灌阳县
+698 /xifeng 西丰县
+699 /cangtu 昌图县
+1548 /liucheng 柳城县
+1549 /luzhai 鹿寨县
+542 /nangong 南宫市
+543 /shahe 沙河市
+540 /xianxian 献县
+541 /mengcun 孟村回族自治县
+546 /neiqiu 内丘县
+547 /boxiang 柏乡县
+544 /xingtaixian 邢台县
+545 /lincheng 临城县
+548 /longrao 隆尧县
+549 /renxian 任县
+760 /wangqing 汪清县
+1783 /zhenyuan 镇远县
+766 /yilan 依兰县
+1785 /tianzhu 天柱县
+764 /wuchang 五常市
+765 /acheng 阿城市
+415 /lishuixian 溧水县
+416 /kunshan 昆山
+417 /changshu 常熟
+1388 /shimen 石门县
+411 /hainanzhou 海南州
+412 /zengcheng 增城市
+413 /conghua 从化市
+1384 /hanshou 汉寿县
+1385 /cdlixian 澧县
+1386 /linli 临澧县
+1387 /taoyuanxian 桃源县
+1380 /cili 慈利县
+1381 /sangzhi 桑植县
+1382 /jinshi 津市市
+1383 /anxiang 安乡县
+1254 /puyangxian 濮阳县
+368 /wulanhaote 乌兰浩特市
+367 /xilinhaote 锡林浩特市
+362 /huichun 珲春市
+363 /meihekou 梅河口市
+361 /yanji 延吉市
+382 /xichang 西昌市
+383 /kangding 康定市
+385 /yiwu 义乌
+389 /alaer 阿拉尔
+2190 /yongning 永宁县
+2191 /helan 贺兰县
+258 /guiyang 贵阳
+259 /liupanshui 六盘水
+2194 /yanchi 盐池县
+2195 /tongxin 同心县
+2196 /xiji 西吉县
+2197 /longde 隆德县
+2198 /jingyuanxian 泾源县
+253 /bazhong 巴中
+250 /guangan 广安
+251 /dazhou 达州
+256 /ganzi 甘孜州
+257 /liangshan 凉山
+254 /ziyang 资阳
+255 /aba 阿坝
+2200 /wulumuqixian 乌鲁木齐县
+2201 /kashi 喀什市
+2202 /shufu 疏附县
+2203 /shule 疏勒县
+2204 /yingjisha 英吉沙县
+2205 /zepu 泽普县
+2206 /shache 莎车县
+2207 /yecheng 叶城县
+2208 /maigaiti 麦盖提县
+2209 /yuepuhu 岳普湖县
+900 /sanmen 三门县
+901 /tiantai 天台县
+168 /puyang 濮阳
+169 /xuchang 许昌
+164 /anyang 安阳
+165 /hebi 鹤壁
+166 /xinxiang 新乡
+167 /jiaozuo 焦作
+160 /zhengzhou 郑州
+161 /kaifeng 开封
+162 /luoyang 洛阳
+163 /pingdingshan 平顶山
+1841 /tengchong 腾冲市
+909 /taishun 泰顺县
+4426 /wanzhou 万州区
+1846 /yanjinxian 盐津县
+3531 /aluqinqi 阿鲁科尔沁旗
+3530 /daerhanqi 达尔罕茂明安联合旗
+3533 /bayouqi 巴林右旗
+3532 /bazuoqi 巴林左旗
+3535 /wenteqi 翁牛特旗
+3534 /ketengqi 克什克腾旗
+3537 /aohanqi 敖汉旗
+3536 /keqinqi 喀喇沁旗
+3539 /kezuohouqi 科尔沁左翼后旗
+3538 /kezuozhongqi 科尔沁左翼中旗
+4425 /wenjiang 温江区
+609 /wutai 五台县
+1091 /chongren 崇仁县
+1814 /anliu 安龙县
+1815 /anning 安宁市
+1816 /chenggong 呈贡区
+1817 /jinning 晋宁县
+1810 /qinglongxian 晴隆县
+1811 /zhenfeng 贞丰县
+1812 /wangmo 望谟县
+1813 /ceheng 册亨县
+1093 /yihuang 宜黄县
+1818 /fumin 富民县
+1819 /yiliang 宜良县
+1098 /fengchengshi 丰城市
+1099 /zhangshu 樟树市
+1609 /shuangliu 双流区
+1608 /jintang 金堂县
+1979 /rikaze 桑珠孜区
+1978 /kalangzi 浪卡子县
+1977 /cuona 错那县
+1600 /jinxiu 金秀瑶族自治县
+1603 /fuchuan 富川瑶族自治县
+1974 /luozha 洛扎县
+1973 /cuomei 措美县
+1604 /dujiangyan 都江堰市
+1607 /chongzhou 崇州市
+1606 /qionglai 邛崃市
+809 /muleng 穆棱市
+808 /jidong 鸡东县
+803 /youyi 友谊县
+802 /sysjixianxian 集贤县
+801 /fuyuan 抚远县
+800 /tangyuan 汤原县
+807 /mishan 密山市
+806 /hulin 虎林市
+805 /raohe 饶河县
+804 /baoqing 宝清县
+1849 /suijian 绥江县
+1775 /yuping 玉屏侗族自治县
+1774 /dejian 德江县
+1777 /yanhe 沿河土家族自治县
+1776 /yinjiang 印江土家族苗族自治县
+1771 /jiankou 江口县
+1770 /tongren 碧江区
+1773 /sinan 思南县
+1772 /shiqian 石阡县
+1779 /kaili 凯里市
+1778 /songtao 松桃苗族自治县
+1159 /zhaoyuan 招远市
+1158 /penglai 蓬莱市
+1155 /liukou 龙口市
+1154 /haiyang 海阳市
+1157 /laizhou 莱州市
+1156 /laiyang 莱阳市
+1151 /linqu 临朐县
+1150 /shouguang 寿光市
+1153 /qixia 栖霞市
+1152 /cangle 昌乐县
+1555 /tengxian 藤县
+1554 /cangwu 苍梧县
+1551 /sanjiang 三江侗族自治县
+1550 /rongan 融安县
+1553 /cenxi 岑溪市
+1552 /rongshui 融水苗族自治县
+59 /fushun 抚顺
+58 /anshan 鞍山
+1557 /guiping 桂平市
+1556 /mengshan 蒙山县
+1559 /beiliu 北流市
+1558 /pingnanxian 平南县
+57 /alashan 阿拉善
+56 /bayannaoer 巴彦淖尔
+51 /eerduosi 鄂尔多斯
+50 /tongliao 通辽
+53 /xingan 兴安盟
+52 /hulunbeier 呼伦贝尔
+537 /suning 肃宁县
+55 /wulanchabu 乌兰察布
+535 /haixing 海兴县
+534 /dongguang 东光县
+533 /qingxian 青县
+532 /cangxian 沧县
+531 /hejian 河间市
+530 /huanghua 黄骅市
+1081 /qianshanxian 铅山县
+538 /nanpi 南皮县
+536 /yanshan 盐山县
+429 /wafangdian 瓦房店市
+428 /yixing 宜兴
+1399 /liling 醴陵市
+1398 /pingjian 平江县
+421 /cixi 慈溪
+1396 /huarong 华容县
+423 /yuyao 余姚
+1394 /linxiang 临湘市
+425 /jiangdu 江都区
+1392 /anhua 安化县
+427 /jiangyin 江阴
+1390 /nanxian 南县
+539 /wuqiao 吴桥县
+1321 /zhuxi 竹溪县
+2183 /nangqian 囊谦县
+2182 /zhiduo 治多县
+2181 /chenduo 称多县
+2180 /zaduo 杂多县
+2187 /dulan 都兰县
+2186 /wulan 乌兰县
+229 /fangchenggang 防城港
+228 /beihai 北海
+227 /wuzhou 梧州
+226 /guilin 桂林
+225 /liuzhou 柳州
+224 /nanning 南宁
+223 /yunfu 云浮
+222 /jieyang 揭阳
+221 /chaozhou 潮州
+220 /zhongshan 中山
+2213 /akesu 阿克苏市
+2212 /tashikuergan 塔什库尔干塔吉克自治县
+2211 /bachu 巴楚县
+2210 /jiashi 伽师县
+2217 /xinhexian 新和县
+2216 /shaya 沙雅县
+2215 /kunche 库车县
+2214 /wensu 温宿县
+2219 /wushi 乌什县
+2218 /baichengxian 拜城县
+3549 /yijinqi 伊金霍洛旗
+151 /taian 泰安
+150 /jining 济宁
+153 /rizhao 日照
+152 /weihai 威海
+155 /linyi 临沂
+154 /laiwu 莱芜
+157 /liaocheng 聊城
+156 /dezhou 德州
+159 /heze 菏泽
+158 /binzhou 滨州
+2506 /tanggu 塘沽
+2504 /riyuetan 南投
+2503 /alishan 阿里山
+1807 /xingyi 兴义市
+1806 /sandu 三都水族自治县
+1805 /huishui 惠水县
+1804 /liuli 龙里县
+1803 /changshun 长顺县
+1802 /luodian 罗甸县
+1801 /pingtang 平塘县
+1800 /dushan 独山县
+1809 /puan 普安县
+1808 /xingren 兴仁县
+1524 /wuchuan 吴川市
+1948 /nima 尼玛县
+1949 /changdu 卡若区
+1257 /weishi 尉氏县
+1942 /nierong 聂荣县
+1943 /anduo 安多县
+1940 /jiali 嘉黎县
+1941 /biru 比如县
+1946 /bange 班戈县
+1947 /baqing 巴青县
+1944 /shenzha 申扎县
+1945 /suoxian 索县
+818 /wangkui 望奎县
+819 /lanxixian 兰西县
+1527 /suixixian 遂溪县
+810 /suifenhe 绥芬河市
+811 /hailin 海林市
+812 /ningan 宁安市
+813 /dongning 东宁市
+814 /linkou 林口县
+815 /anda 安达市
+816 /zhaodong 肇东市
+817 /hailun 海伦市
+1991 /zhongba 仲巴县
+1250 /qingfeng 清丰县
+1622 /zitong 梓潼县
+1523 /dianbai 电白区
+1993 /jilong 吉隆县
+1490 /chaoan 潮安区
+1491 /raoping 饶平县
+1492 /nanao 南澳县
+1493 /puning 普宁市
+1494 /jiedong 揭东县
+1495 /jiexi 揭西县
+1496 /huilai 惠来县
+1497 /lufeng 陆丰市
+1498 /haifeng 海丰县
+1499 /luhe 陆河县
+1395 /yueyangxian 岳阳县
+1626 /guanghan 广汉市
+1700 /jinchuan 金川县
+1701 /xiaojin 小金县
+1702 /heishui 黑水县
+422 /fenghua 奉化
+1704 /abaxian 阿坝县
+1705 /nuoergai 若尔盖县
+1706 /hongyuan 红原县
+1707 /luding 泸定县
+1708 /danba 丹巴县
+1393 /miluo 汨罗市
+1624 /pingwu 平武县
+424 /yizheng 仪征市
+1391 /taojian 桃江县
+426 /gaoyou 高邮市
+1128 /gaotang 高唐县
+1129 /leling 乐陵市
+1628 /luojian 罗江县
+1120 /jiyang 济阳县
+1121 /shanghe 商河县
+1122 /linqing 临清市
+1123 /yanggu 阳谷县
+1124 /xinxian 莘县
+1125 /chiping 茌平县
+1126 /donga 东阿县
+1127 /guanxian 冠县
+2098 /zhangjiachuan 张家川回族自治县
+524 /anping 安平县
+525 /gucheng 故城县
+526 /jingxian 景县
+527 /fucheng 阜城县
+520 /zaoqiang 枣强县
+1019 /changtai 长泰县
+522 /wuqiang 武强县
+523 /raoyang 饶阳县
+1014 /dehua 德化县
+1015 /liuhai 龙海
+1016 /yunxiao 云霄县
+1017 /zhangpu 漳浦县
+1010 /nanan 南安市
+1011 /huian 惠安县
+1012 /anxi 安溪县
+1013 /yongchun 永春县
+1234 /wenxian 温县
+1235 /weihui 卫辉市
+1236 /huixian 辉县市
+1237 /xinxiangxian 新乡县
+1230 /qinyang 沁阳市
+1231 /xiuwu 修武县
+1232 /boai 博爱县
+1233 /wuzhi 武陟县
+1238 /huojia 获嘉县
+1239 /yuanyang 原阳县
+438 /jinghai 静海县
+439 /xinji 辛集市
+436 /jixian 蓟县
+437 /ninghe 宁河县
+434 /miyun 密云区
+435 /yanqing 延庆区
+432 /changhai 长海县
+433 /fuqing 福清
+430 /pulandian 普兰店区
+431 /zhuanghe 庄河市
+238 /zigong 自贡
+239 /panzhihua 攀枝花
+234 /hezhou 贺州
+235 /hechi 河池
+230 /qinzhou 钦州
+231 /guigang 贵港
+232 /guangxiyulin 玉林
+233 /baise 百色
+2228 /yutianxian 于田县
+2229 /minfeng 民丰县
+2226 /luopu 洛浦县
+2227 /cele 策勒县
+2224 /moyu 墨玉县
+2225 /pishan 皮山县
+2222 /hetian 和田市
+2223 /hetianxian 和田县
+2220 /awati 阿瓦提县
+2221 /kepin 柯坪县
+1 /shanghai 上海
+1433 /shaodong 邵东县
+146 /zaozhuang 枣庄
+147 /dongying 东营
+144 /shangrao 上饶
+145 /zibo 淄博
+142 /jiangxiyichun 宜春
+143 /jiangxifuzhou 抚州
+140 /ganzhou 赣州
+141 /jian 吉安
+148 /yantai 烟台
+149 /weifang 潍坊
+2088 /gaolan 皋兰县
+2089 /yuzhong 榆中县
+2082 /danfeng 丹凤县
+2083 /shangnan 商南县
+2080 /baihe 白河县
+2081 /luonan 洛南县
+2086 /zuoshui 柞水县
+2087 /yongdeng 永登县
+2084 /shanyang 山阳县
+2085 /zhenan 镇安县
+1832 /jiangchuan 江川区
+1833 /chengjian 澄江县
+1830 /luliang 陆良县
+1831 /huize 会泽县
+1836 /yimen 易门县
+1837 /eshan 峨山彝族自治县
+1834 /tonghai 通海县
+1835 /huaning 华宁县
+1838 /xinping 新平彝族傣族自治县
+1839 /yuanjiang 元江哈尼族彝族傣族自治县
+2154 /luqu 碌曲县
+2155 /xiahe 夏河县
+2156 /datongzzxian 大通回族土族自治县
+938 /guzhen 固镇县
+2150 /zhuoni 卓尼县
+2151 /zhouqu 舟曲县
+2152 /diebu 迭部县
+2153 /maqu 玛曲县
+933 /taihe 太和县
+932 /linquan 临泉县
+931 /jieshou 界首市
+930 /lixin 利辛县
+2158 /huangzhong 湟中县
+936 /huaiyuan 怀远县
+935 /yingshang 颍上县
+934 /funan 阜南县
+1691 /tianquan 天全县
+1955 /basu 八宿县
+1954 /chaya 察雅县
+1957 /mangkang 芒康县
+1956 /zuogong 左贡县
+1951 /gongjue 贡觉县
+1950 /jianda 江达县
+1953 /dingqing 丁青县
+1952 /leiwuqi 类乌齐县
+1959 /bianba 边坝县
+1958 /luolong 洛隆县
+829 /xinyi 新沂市
+828 /pizhou 邳州市
+825 /tahe 塔河县
+824 /huma 呼玛县
+827 /gaochun 高淳县
+826 /mohe 漠河县
+821 /qingan 庆安县
+820 /qinggang 青冈县
+823 /suileng 绥棱县
+822 /mingshui 明水县
+1483 /xingning 兴宁市
+1482 /dongyuan 东源县
+1481 /heping 和平县
+1480 /lianping 连平县
+1487 /wuhua 五华县
+1486 /fengshun 丰顺县
+1485 /dapu 大埔县
+1484 /meixian 梅县区
+1489 /jiaoling 蕉岭县
+1488 /pingyuanxian 平远县
+797 /fujin 富锦市
+928 /woyang 涡阳县
+1711 /daofu 道孚县
+794 /tieli 铁力市
+1717 /shiqu 石渠县
+1716 /baiyu 白玉县
+1715 /dege 德格县
+790 /lindian 林甸县
+1719 /litang 理塘县
+1718 /seda 色达县
+799 /huachuan 桦川县
+798 /huanan 桦南县
+1270 /yanling 鄢陵县
+613 /jingle 静乐县
+1272 /wuyang 舞阳县
+1139 /kenli 垦利县
+1273 /linying 临颍县
+1133 /xiajin 夏津县
+1132 /pingyuan 平原县
+1131 /lingxian 陵城区
+1130 /yucheng 禹城市
+1137 /ningjin 宁津县
+1136 /linyixian 临邑县
+1135 /qihe 齐河县
+1275 /ruzhou 汝州市
+614 /shenchi 神池县
+615 /wuzai 五寨县
+519 /shenzhou 深州市
+518 /jizhou 冀州市
+926 /sixian 泗县
+1009 /jinjiang 晋江
+1008 /shishi 石狮
+1007 /jianning 建宁县
+510 /laishui 涞水县
+1005 /jiangle 将乐县
+512 /anxin 安新县
+515 /fuping 阜平县
+1002 /datian 大田县
+517 /lixian 蠡县
+516 /boye 博野县
+1227 /luoning 洛宁县
+1226 /lyyiyang 宜阳县
+1225 /ruyang 汝阳县
+620 /jiexiu 介休市
+1223 /luanchuan 栾川县
+626 /taigu 太谷县
+1221 /mengjin 孟津县
+624 /xiyang 昔阳县
+629 /lingshi 灵石县
+628 /pingyao 平遥县
+1229 /mengzhou 孟州市
+1228 /yichuan 伊川县
+1535 /yangsu 阳朔县
+2 /beijing 北京
+1561 /rongxian 容县
+1286 /xichuan 淅川县
+11 /ningbo 宁波
+10 /tianjin 天津
+13 /wuxi 无锡
+12 /yangzhou 扬州
+15 /xiamen 厦门
+14 /fuzhou 福州
+17 /xian 西安
+16 /wuhan 武汉
+19 /dalian 大连
+18 /shenyang 沈阳
+1848 /yongshan 永善县
+678 /wuyuanxian 五原县
+201 /yongzhou 永州
+200 /chenzhou 郴州
+203 /loudi 娄底
+202 /huaihua 怀化
+205 /shaoguan 韶关
+204 /xiangxi 湘西
+207 /shantou 汕头
+206 /zhuhai 珠海
+209 /jiangmen 江门
+208 /foshan 佛山
+1573 /ningming 宁明县
+684 /xinmin 新民市
+687 /fakun 法库县
+2239 /wuqia 乌恰县
+2238 /aheqi 阿合奇县
+686 /kangping 康平县
+2231 /shanshan 鄯善县
+2230 /tulufan 高昌区
+2233 /hami 哈密市
+2232 /tuokexun 托克逊县
+2235 /balikun 巴里坤哈萨克自治县
+2234 /yiwuxian 伊吾县
+2237 /aketao 阿克陶县
+2236 /atushi 阿图什市
+1575 /tianyang 田阳县
+682 /erlianhaote 二连浩特市
+2185 /delingha 德令哈市
+2184 /qumalai 曲麻莱县
+2095 /qinan 秦安县
+2094 /qingshui 清水县
+2097 /wushan 武山县
+2096 /gangu 甘谷县
+2091 /jingyuan 靖远县
+2090 /yongcang 永昌县
+2093 /jingtai 景泰县
+2092 /huining 会宁县
+2099 /minqin 民勤县
+2189 /lingwu 灵武市
+2188 /tianjun 天峻县
+1829 /shizong 师宗县
+1828 /luoping 罗平县
+1825 /maliu 马龙县
+1824 /xuanwei 宣威市
+1827 /fuyuanxian 富源县
+1826 /zhanyi 沾益区
+1821 /shilin 石林彝族自治县
+1820 /songming 嵩明县
+1823 /xundian 寻甸回族彝族自治县
+1822 /luquanxian 禄劝彝族苗族自治县
+2147 /jishishan 积石山保安族东乡族撒拉族自治县
+929 /mengcheng 蒙城县
+2145 /hezheng 和政县
+2144 /guanghe 广河县
+2143 /yongjing 永靖县
+2142 /kangle 康乐县
+2141 /linxiaxian 临夏县
+2140 /linxia 临夏市
+920 /changfeng 长丰县
+921 /feidong 肥东县
+922 /feixi 肥西县
+923 /dangshan 砀山县
+924 /xiaoxian 萧县
+925 /lingbi 灵璧县
+2149 /lintan 临潭县
+2148 /hezuo 合作市
+1920 /honghexian 红河县
+1921 /jinpingxian 金平苗族瑶族傣族自治县
+1922 /helou 河口瑶族自治县
+1923 /pingbian 屏边苗族自治县
+1924 /wenshanshi 文山市
+1925 /yanshanxian 砚山县
+1926 /xichou 西畴县
+1927 /malipo 麻栗坡县
+1928 /maguan 马关县
+1929 /qiubei 丘北县
+832 /peixian 沛县
+833 /fengxian 丰县
+830 /tongshan 铜山县
+831 /szsuining 睢宁县
+836 /donghai 东海县
+837 /guannan 灌南县
+834 /ganyu 赣榆区
+835 /guanyun 灌云县
+838 /shuyang 沭阳县
+839 /siyang 泗阳县
+3 /hangzhou 杭州
+1987 /bailang 白朗县
+784 /wudalianchi 五大连池市
+785 /nengjian 嫩江县
+786 /xunke 逊克县
+787 /sunwu 孙吴县
+780 /keshan 克山县
+781 /kedong 克东县
+1728 /ningnan 宁南县
+783 /beian 北安市
+1726 /huili 会理县
+1727 /huidongxian 会东县
+1724 /yanyuan 盐源县
+1725 /decang 德昌县
+1722 /daocheng 稻城县
+1723 /derong 得荣县
+1720 /batang 巴塘县
+1721 /gzzxiangcheng 乡城县
+252 /yaan 雅安
+60 /benxi 本溪
+690 /chaoyangxian 朝阳县
+62 /jinzhou 锦州
+63 /yingkou 营口
+64 /fuxin 阜新
+65 /liaoyang 辽阳
+66 /panjin 盘锦
+67 /tieling 铁岭
+68 /chaoyang 朝阳
+69 /huludao 葫芦岛
+407 /wanning 万宁
+1588 /tiane 天峨县
+1589 /fengshan 凤山县
+406 /tunchang 屯昌县
+1582 /leye 乐业县
+1583 /xilin 西林县
+1580 /napo 那坡县
+1581 /lingyun 凌云县
+1586 /yizhou 宜州市
+1587 /nandan 南丹县
+1584 /tianlin 田林县
+1585 /longlin 隆林各族自治县
+1038 /nanchangxian 南昌县
+404 /shennongjia 神农架林区
+508 /tangxian 唐县
+509 /wangdu 望都县
+506 /dingxing 定兴县
+403 /qiongzhong 琼中
+1030 /fuan 福安市
+505 /laiyuan 涞源县
+502 /bdqingyuan 清苑区
+503 /bdyixian 易县
+500 /gaopaidian 高碑店市
+501 /mancheng 满城区
+1212 /gongyi 巩义市
+631 /huozhou 霍州市
+1210 /dengfeng 登封市
+1211 /xinmi 新密市
+1216 /lingbao 灵宝市
+1217 /shenchixian 渑池县
+636 /guxian 古县
+637 /anzhe 安泽县
+638 /fushan 浮山县
+639 /lfjixian 吉县
+1218 /shanxian 陕州区
+1376 /liuyang 浏阳
+782 /baiquan 拜泉县
+1729 /puge 普格县
+1454 /shuangfeng 双峰县
+1107 /jinggangshan 井冈山市
+1456 /jishou 吉首市
+1105 /jingan 靖安县
+1450 /jingzhouxian 靖州苗族侗族自治县
+1103 /shanggao 上高县
+1100 /gaoan 高安市
+1453 /lianyuan 涟源市
+1458 /fenghuang 凤凰县
+1459 /huayuan 花垣县
+1108 /jianxian 吉安县
+1109 /jishui 吉水县
+788 /zhaozhou 肇州县
+789 /zhaoyuanxian 肇源县
+681 /tuquan 突泉县
+1897 /weishanxian 巍山彝族回族自治县
+466 /zhuolu 涿鹿县
+1576 /tiandong 田东县
+2136 /xihe 西和县
+958 /yuexi 岳西县
+216 /heyuan 河源
+217 /yangjiang 阳江
+214 /meizhou 梅州
+215 /shanwei 汕尾
+212 /zhaoqing 肇庆
+213 /huizhou 惠州
+210 /zhanjiang 湛江
+211 /maoming 茂名
+218 /qingyuan 清远
+219 /dongguan 东莞
+957 /wangjian 望江县
+956 /susong 宿松县
+462 /yangyuan 阳原县
+4 /guangzhou 广州
+2012 /zhidan 志丹县
+61 /dandong 丹东
+1858 /ninger 宁洱哈尼族彝族自治县
+1859 /mojiang 墨江哈尼族自治县
+1850 /zhenxiong 镇雄县
+1851 /yiliangxian 彝良县
+1852 /weixin 威信县
+1853 /shuifu 水富县
+1854 /yongsheng 永胜县
+1855 /huapin 华坪县
+1856 /yulong 玉龙纳西族自治县
+1857 /ninglang 宁蒗彝族自治县
+2172 /henanxian 河南蒙古族自治县
+2173 /maqin 玛沁县
+2170 /jianzha 尖扎县
+2171 /zekun 泽库县
+919 /jingning 景宁畲族自治县
+918 /lsqingyuan 庆元县
+2174 /banma 班玛县
+2175 /gande 甘德县
+915 /yunhe 云和县
+914 /qingtian 青田县
+2178 /maduo 玛多县
+916 /suicang 遂昌县
+911 /cangnan 苍南
+910 /dongtou 洞头县
+913 /jinyun 缙云县
+912 /liuquan 龙泉市
+1420 /rucheng 汝城县
+1933 /dangxiong 当雄县
+1932 /linzhouxian 林周县
+1931 /wszfuning 富宁县
+1930 /guangnan 广南县
+1937 /dazi 达孜县
+1936 /duilongdeqing 堆龙德庆区
+1935 /qushui 曲水县
+1934 /nimu 尼木县
+1939 /naquxian 那曲县
+1938 /muzhugongka 墨竹工卡县
+847 /sheyang 射阳县
+846 /dafeng 大丰区
+845 /dongtai 东台市
+844 /lianshui 涟水县
+843 /hongze 洪泽县
+842 /xuyi 盱眙县
+841 /jinhu 金湖县
+840 /sihong 泗洪县
+849 /binhai 滨海县
+848 /funing 阜宁县
+1739 /muli 木里藏族自治县
+1738 /leibo 雷波县
+1731 /jinyang 金阳县
+1730 /butuo 布拖县
+1733 /xide 喜德县
+1732 /zhaojue 昭觉县
+1735 /yuexixian 越西县
+1734 /mianning 冕宁县
+1737 /meigu 美姑县
+1736 /ganluo 甘洛县
+732 /fuyu 扶余市
+796 /tongjiang 同江市
+753 /fusong 抚松县
+752 /jianyuan 江源县
+751 /linjian 临江市
+750 /liuhe 柳河县
+757 /dunhua 敦化市
+756 /tumen 图们市
+755 /chengbai 长白朝鲜族自治县
+754 /jingyu 靖宇县
+759 /heliu 和龙市
+758 /liujing 龙井市
+1595 /huanjiang 环江毛南族自治县
+1594 /luocheng 罗城仫佬族自治县
+1597 /xiangzhou 象州县
+1596 /heshanshi 合山市
+1591 /bama 巴马瑶族自治县
+1590 /donglan 东兰县
+1593 /dahua 大化瑶族自治县
+1592 /duan 都安瑶族自治县
+1599 /xincheng 忻城县
+1598 /wuxuan 武宣县
+1025 /changting 长汀县
+1024 /zhangping 漳平市
+1027 /shanghang 上杭县
+1031 /fuding 福鼎
+1021 /nanjingxian 南靖县
+1020 /dongshan 东山县
+1023 /huaan 华安县
+1022 /pinghe 平和县
+1036 /gutian 古田县
+1115 /wanan 万安县
+1029 /liancheng 连城县
+1028 /wuping 武平县
+1037 /zhouning 周宁县
+1034 /zherong 柘荣县
+1035 /pingnan 屏南县
+605 /yangcheng 阳城县
+630 /houma 侯马市
+607 /yuanping 原平市
+606 /lingchuan 陵川县
+601 /qinyuan 沁源县
+1208 /dongming 东明县
+603 /zhezhou 泽州县
+602 /gaoping 高平市
+1205 /juye 巨野县
+1204 /danxian 单县
+1207 /juancheng 鄄城县
+1206 /yunchengxian 郓城县
+1201 /caoxian 曹县
+608 /dingxiang 定襄县
+1203 /chengwu 成武县
+1202 /dingtao 定陶县
+1560 /xingye 兴业县
+634 /xiangfen 襄汾县
+635 /hongdong 洪洞县
+1214 /zhongmo 中牟县
+1215 /yima 义马市
+1447 /mayang 麻阳苗族自治县
+1446 /huitong 会同县
+1113 /taihexian 泰和县
+1444 /xupu 溆浦县
+5 /nanjing 南京
+1114 /suichuan 遂川县
+1441 /hongjian 洪江市
+1116 /anfu 安福县
+1119 /pingyin 平阴县
+1118 /zhangqiu 章丘
+467 /chicheng 赤城县
+1449 /zhijiang 芷江侗族自治县
+1448 /xinhuang 新晃侗族自治县
+1219 /lushi 卢氏县
+461 /weixian 蔚县
+450 /shenzhe 深泽县
+460 /shangyi 尚义县
+1355 /songzi 松滋市
+489 /bazhou 霸州市
+488 /tanghai 唐海县
+487 /yutian 玉田县
+486 /qianxi 迁西县
+485 /leting 乐亭县
+484 /luannan 滦南县
+483 /luanxian 滦县
+482 /qianan 迁安市
+481 /zunhua 遵化市
+480 /qinglong 青龙满族自治县
+451 /zanhuang 赞皇县
+199 /yiyang 益阳
+198 /zhangjiajie 张家界
+2289 /wulong 武隆县
+195 /shaoyang 邵阳
+194 /hengyang 衡阳
+197 /changde 常德
+196 /yueyang 岳阳
+191 /tianmen 天门
+190 /qianjiang 潜江
+193 /xiangtan 湘潭
+192 /zhuzhou 株洲
+1039 /xinjian 新建县
+1106 /tonggu 铜鼓县
+1455 /xinhua 新化县
+1274 /wugang 舞钢市
+1104 /yifeng 宜丰县
+1457 /xxluxi 泸溪县
+1102 /wanzai 万载县
+1451 /tongdao 通道侗族自治县
+3580 /chongmingxian 崇明县
+3584 /jinmenxian 金门县
+3585 /gongqingcheng 共青城市
+3587 /szsuixian 随县
+3589 /shuichengxian 水城县
+1101 /fengxin 奉新县
+902 /xianju 仙居县
+903 /yuhuan 玉环县
+4428 /changshou 长寿区
+4429 /hechuan 合川区
+906 /yongjia 永嘉县
+907 /wencheng 文成县
+904 /ruian 瑞安
+905 /yueqing 乐清
+1843 /cangning 昌宁县
+1842 /liuling 龙陵县
+908 /pingyang 平阳
+1840 /shidian 施甸县
+1847 /daguan 大关县
+4427 /fuling 涪陵区
+1845 /qiaojia 巧家县
+1844 /ludian 鲁甸县
+2169 /tongrenxian 同仁县
+2168 /menyuan 门源回族自治县
+2165 /haiyanxian 海晏县
+2164 /xunhua 循化撒拉族自治县
+2167 /gangcha 刚察县
+2166 /qilian 祁连县
+2161 /minhe 民和回族土族自治县
+2160 /ledu 乐都县
+2163 /hualong 化隆回族自治县
+2162 /huzhu 互助土族自治县
+1908 /jinghong 景洪市
+1909 /menghai 勐海县
+1906 /wuding 武定县
+1907 /lufengxian 禄丰县
+1904 /yongren 永仁县
+1905 /yuanmou 元谋县
+1902 /yaoan 姚安县
+1903 /dayao 大姚县
+1900 /moding 牟定县
+1901 /nanhua 南华县
+854 /taixing 泰兴市
+855 /jiangyan 姜堰区
+856 /xinghua 兴化市
+857 /haimen 海门市
+850 /xiangshui 响水县
+851 /jianhu 建湖县
+852 /baoying 宝应县
+853 /jingjian 靖江
+858 /qidong 启东市
+859 /tongzhou 通州区
+6 /suzhou 苏州
+740 /yongjixian 永吉县
+741 /shuangliao 双辽市
+742 /gongzhuling 公主岭市
+743 /lishu 梨树县
+744 /yitong 伊通满族自治县
+745 /dongfeng 东丰县
+746 /dongliao 东辽县
+747 /jianshi 集安市
+748 /tonghuaxian 通化县
+749 /huinan 辉南县
+1050 /hukou 湖口县
+1051 /pengze 彭泽县
+1052 /leping 乐平市
+1053 /fuliang 浮梁县
+1054 /guixi 贵溪市
+1055 /yujian 余江县
+1056 /fenyi 分宜县
+1057 /lianhua 莲花县
+1058 /shangli 上栗县
+1059 /luxi 芦溪县
+1696 /ablixian 理县
+1697 /maoxian 茂县
+1694 /maerkang 马尔康区
+1695 /wenchuan 汶川县
+1692 /yalushan 芦山县
+1693 /baoxing 宝兴县
+1690 /shimian 石棉县
+716 /panshan 盘山县
+715 /dawa 大洼县
+1698 /songpan 松潘县
+1699 /jiuzhaigou 九寨沟县
+1278 /pdslushan 鲁山县
+1279 /jiaxian 郏县
+618 /baode 保德县
+619 /pianguan 偏关县
+612 /ningwu 宁武县
+1797 /libo 荔波县
+610 /daixian 代县
+611 /fanzhi 繁峙县
+616 /kelan 岢岚县
+617 /hequ 河曲县
+1276 /baofeng 宝丰县
+712 /kuandian 宽甸满族自治县
+1795 /duyun 都匀市
+710 /fengcheng 凤城市
+1472 /nanxiong 南雄市
+1473 /shixing 始兴县
+1470 /liannan 连南瑶族自治县
+1471 /lecang 乐昌市
+1476 /xinfengxian 新丰县
+1477 /ruyuan 乳源瑶族自治县
+1474 /renhua 仁化县
+1475 /wengyuan 翁源县
+1478 /zijin 紫金县
+1479 /liuchuan 龙川县
+1304 /dancheng 郸城县
+1305 /huaiyang 淮阳县
+1306 /shenqiu 沈丘县
+1307 /queshan 确山县
+1300 /xihua 西华县
+1301 /shangshui 商水县
+1302 /taikang 太康县
+1303 /luyi 鹿邑县
+1308 /miyang 泌阳县
+1309 /suiping 遂平县
+498 /zhuozhou 涿州市
+499 /anguo 安国市
+494 /dacheng 大城县
+495 /wenan 文安县
+496 /dachang 大厂回族自治县
+497 /dingzhou 定州市
+490 /sanhe 三河市
+491 /guan 固安县
+492 /yongqing 永清县
+493 /xianghe 香河县
+24 /shijiazhuang 石家庄
+25 /tangshan 唐山
+26 /qinhuangdao 秦皇岛
+27 /handan 邯郸
+20 /more 其它城市
+21 /qingdao 青岛
+22 /jinan 济南
+23 /haikou 海口
+927 /suixi 濉溪县
+28 /xingtai 邢台
+29 /baoding 保定
+1703 /rangtang 壤塘县
+4435 /huiyang 惠阳
+1877 /yingjian 盈江县
+1874 /luxishi 芒市
+4436 /xinhui 新会
+1709 /jiuliu 九龙县
+4431 /nanchuan 南川区
+4430 /yongchuan 永川区
+1870 /zhenkang 镇康县
+1871 /shuangjiang 双江拉祜族佤族布朗族傣族自治县
+173 /shangqiu 商丘
+7 /shenzhen 深圳
+2288 /dianjian 垫江县
+410 /wuzhishan 五指山
+2050 /taibai 太白县
+2280 /qinghexian 青河县
+2281 /jimumai 吉木乃县
+2282 /qijian 綦江县
+2283 /tongnan 潼南区
+2284 /tongliang 铜梁区
+2285 /dazu 大足县
+2286 /rongcang 荣昌区
+2287 /bishan 璧山区
+3593 /haiyuanxian 海原县
+1087 /wuyuan 婺源县
+3591 /shuanghuxian 双湖县
+3590 /dalishi 大理市
+3597 /yabuli 亚布力
+3596 /changbaishan 长白山
+3595 /nandaihe 南戴河
+3594 /alashankoushi 阿拉山口市
+3599 /luzhi 甪直
+3598 /tianmuhu 天目湖
+593 /xiangyuan 襄垣县
+1876 /lianghe 梁河县
+4434 /hekou 河口
+4437 /mouping 牟平
+1875 /ruili 瑞丽市
+1872 /genma 耿马傣族佤族自治县
+1873 /changyuanxian 沧源佤族自治县
+4433 /boshan 博山
+1083 /sryiyang 弋阳县
+4439 /chenghai 澄海
+4438 /chaoyangshantou 潮阳
+1878 /longchuan 陇川县
+1879 /lushui 泸水县
+977 /guangde 广德县
+976 /langxi 郎溪县
+975 /ningguo 宁国市
+974 /qingyangxian 青阳县
+973 /shitai 石台县
+972 /dongzhi 东至县
+971 /hexian 和县
+970 /hanshan 含山县
+1080 /yushan 玉山县
+979 /jingde 旌德县
+978 /jingxianxian 泾县
+2118 /ningxian 宁县
+183 /xiaogan 孝感
+180 /xiangyang 襄阳
+181 /ezhou 鄂州
+186 /xianning 咸宁
+187 /suizhou 随州
+184 /jingzhou 荆州
+185 /huanggang 黄冈
+2110 /gaotai 高台县
+2111 /shandan 山丹县
+188 /enshizhou 恩施
+2113 /qingcheng 庆城县
+2114 /huanxian 环县
+2115 /huachi 华池县
+2116 /heshui 合水县
+2117 /zhengning 正宁县
+1919 /yuanyangxian 元阳县
+1918 /hhluxi 泸西县
+1911 /mengzi 蒙自市
+1910 /mengla 勐腊县
+1913 /kaiyuanshi 开远市
+1912 /gejiu 个旧市
+1915 /jianshui 建水县
+1914 /lvchun 绿春县
+1917 /mile 弥勒市
+1916 /shiping 石屏县
+869 /fuyangfy 富阳区
+868 /linan 临安
+189 /xiantao 仙桃
+861 /rudong 如东县
+860 /rugao 如皋市
+863 /yangzhong 扬中市
+862 /haian 海安县
+865 /jurong 句容市
+864 /danyang 丹阳市
+867 /liyang 溧阳
+866 /jintan 金坛区
+2024 /tongguan 潼关县
+2025 /dalixian 大荔县
+2026 /puchengxian 蒲城县
+2027 /chengcheng 澄城县
+2020 /yijun 宜君县
+2021 /huayin 华阴市
+2022 /hancheng 韩城市
+2023 /huazhou 华州区
+2028 /baishui 白水县
+2029 /heyang 合阳县
+883 /zhuji 诸暨
+882 /shengsi 嵊泗县
+881 /daishan 岱山县
+880 /haiyan 海盐县
+887 /xincang 新昌县
+886 /shaoxingxian 柯桥区
+885 /shengzhou 嵊州市
+884 /shangyu 上虞区
+889 /changshan 常山县
+888 /jianshan 江山市
+657 /shilou 石楼县
+775 /longjiang 龙江县
+774 /nehe 讷河市
+777 /tailai 泰来县
+776 /yian 依安县
+771 /tonghe 通河县
+770 /mulan 木兰县
+773 /boli 勃利县
+772 /yanshou 延寿县
+779 /fuyuxian 富裕县
+778 /gannan 甘南县
+77 /baicheng 白城
+76 /songyuan 松原
+75 /baishan 白山
+74 /tonghua 通化
+73 /liaoyuan 辽源
+72 /siping 四平
+71 /jilin 吉林
+70 /changchun 长春
+79 /haerbin 哈尔滨
+78 /yanbian 延边
+1043 /jiujiangxian 九江县
+1042 /ruicang 瑞昌市
+1041 /jinxian 进贤县
+1040 /anyi 安义县
+1047 /dean 德安县
+1046 /yongxiu 永修县
+1045 /xiushui 修水县
+1044 /wuning 武宁县
+1049 /ducang 都昌县
+1048 /xingzi 星子县
+1681 /anyue 安岳县
+1680 /lezhi 乐至县
+1683 /pengshan 彭山区
+1682 /renshou 仁寿县
+1685 /danleng 丹棱县
+1684 /hongya 洪雅县
+1687 /mingshan 名山县
+1686 /qingshen 青神县
+1689 /hanyuan 汉源县
+1688 /yingjing 荥经县
+1269 /xuchangxian 许昌县
+1268 /changge 长葛市
+669 /yakeshi 牙克石市
+668 /zalantun 扎兰屯市
+1263 /ningling 宁陵县
+1262 /minquan 民权县
+665 /huolinguole 霍林郭勒市
+664 /linxixian 林西县
+663 /ningcheng 宁城县
+662 /guyang 固阳县
+661 /qingshuihe 清水河县
+660 /helingeer 和林格尔县
+640 /xiangning 乡宁县
+650 /xingxian 兴县
+1469 /lianshan 连山壮族瑶族自治县
+1468 /qingxin 清新县
+1465 /lianzhou 连州市
+8 /chengdu 成都
+1467 /yangshan 阳山县
+1466 /fogang 佛冈县
+1461 /guzhang 古丈县
+1460 /baojing 保靖县
+1463 /liushan 龙山县
+521 /wuyi 武邑县
+1317 /yunyangqu 郧阳区
+1316 /danjiangkou 丹江口市
+1315 /zhengyang 正阳县
+1314 /xincha 新蔡县
+1313 /pingyu 平舆县
+1312 /runan 汝南县
+1311 /shangcha 上蔡县
+1310 /xiping 西平县
+1319 /fangxian 房县
+1318 /zhushan 竹山县
+528 /botou 泊头市
+464 /wanquan 万全县
+529 /renqiu 任丘市
+319 /yushu 玉树
+318 /guoluo 果洛
+313 /xining 西宁
+312 /gannanzhou 甘南
+311 /linxiazhou 临夏州
+310 /longnan 陇南
+316 /huangnan 黄南
+315 /haibei 海北
+314 /haidong 海东
+1520 /huazhou 化州市
+443 /luquan 鹿泉区
+442 /xinle 新乐市
+1337 /macheng 麻城市
+1336 /yunmeng 云梦县
+420 /taicang 太仓
+1331 /yingcheng 应城市
+446 /luancheng 栾城区
+445 /zhengding 正定县
+444 /jingjing 井陉县
+3610 /hongcun 宏村
+3611 /xidi 西递
+3612 /jiuhuashan 九华山
+3613 /gulangyu 鼓浪屿
+3614 /xiandu 仙都
+3615 /longhushan 龙虎山
+3616 /mingyueshan 明月山
+3617 /weizhoudao 涠洲岛
+2293 /kaixian 开县
+2292 /liangping 梁平县
+2291 /chengkou 城口县
+2290 /fengdu 丰都县
+2297 /yunyang 云阳县
+2296 /fengjie 奉节县
+2295 /wushanxian 巫山县
+2294 /wuxia 巫溪县
+288 /ali 阿里
+632 /quwo 曲沃县
+1615 /qingchuan 青川县
+1521 /xinyishi 信宜市
+633 /yichengxian 翼城县
+402 /qionghai 琼海
+1861 /jinggu 景谷傣族彝族自治县
+1860 /jingdong 景东彝族自治县
+4442 /doumen 斗门
+1862 /zhenyuanzzxian 镇沅彝族哈尼族拉祜族自治县
+1865 /lancang 澜沧拉祜族自治县
+1864 /menglian 孟连傣族拉祜族佤族自治县
+1867 /fengqing 凤庆县
+1866 /ximeng 西盟佤族自治县
+1869 /yongde 永德县
+1868 /yunxianxian 云县
+964 /huoqiu 霍邱县
+965 /shucheng 舒城县
+966 /jinzhai 金寨县
+967 /huoshan 霍山县
+960 /xiuning 休宁县
+961 /hsyixian 黟县
+962 /qimen 祁门县
+963 /shouxian 寿县
+1613 /xinjin 新津县
+968 /lujian 庐江县
+969 /wuweixian 无为县
+2109 /linze 临泽县
+2108 /minle 民乐县
+2103 /dunhuang 敦煌市
+2102 /yumen 玉门市
+2101 /tianzhuxian 天祝藏族自治县
+2100 /gulang 古浪县
+2107 /akesai 阿克塞哈萨克族自治县
+2106 /subei 肃北蒙古族自治县
+2105 /anxixian 瓜州县
+2104 /jinta 金塔县
+30 /zhangjiakou 张家口
+1537 /lingchuanxian 灵川县
+878 /tongxiang 桐乡市
+879 /jiashan 嘉善县
+876 /pinghu 平湖市
+877 /haining 海宁市
+874 /deqing 德清县
+875 /anji 安吉县
+872 /chunan 淳安县
+873 /changxing 长兴县
+870 /jiande 建德市
+871 /tonglu 桐庐县
+2037 /binxianshi 彬县
+2036 /yongshou 永寿县
+2035 /liquan 礼泉县
+642 /daning 大宁县
+2033 /jingyang 泾阳县
+2032 /sanyuan 三原县
+2031 /xingping 兴平市
+2030 /fupingxian 富平县
+9 /chongqing 重庆
+1533 /longan 隆安县
+2039 /xunyi 旬邑县
+2038 /changwu 长武县
+890 /kaihua 开化县
+891 /liuyou 龙游县
+892 /lanxi 兰溪市
+893 /yongkang 永康
+894 /dongyang 东阳
+647 /fengyang 汾阳市
+896 /pujiang 浦江县
+897 /panan 磐安县
+898 /linhai 临海市
+899 /wenling 温岭市
+1530 /hengxian 横县
+649 /zhongyang 中阳县
+1247 /tangyin 汤阴县
+648 /wenshui 文水县
+3544 /zhungeerqi 准格尔旗
+3545 /eqianqi 鄂托克前旗
+3546 /eqi 鄂托克旗
+3547 /hangjinqi 杭锦旗
+3540 /kulunqi 库伦旗
+3541 /naimanqi 奈曼旗
+3542 /zhaluteqi 扎鲁特旗
+3543 /dalateqi 达拉特旗
+3548 /wushenqi 乌审旗
+641 /puxian 蒲县
+1616 /jiange 剑阁县
+1617 /cangxi 苍溪县
+1614 /wangcang 旺苍县
+1788 /taijian 台江县
+1789 /liping 黎平县
+768 /binxian 宾县
+769 /bayan 巴彦县
+1780 /huangping 黄平县
+1612 /pujiangxian 蒲江县
+1782 /sansui 三穗县
+761 /antu 安图县
+1784 /cengong 岑巩县
+767 /fangzheng 方正县
+1786 /jinping 锦屏县
+1787 /jianhe 剑河县
+1610 /pixian 郫县
+1611 /dayi 大邑县
+1078 /shangraoxian 上饶县
+1079 /guangfeng 广丰区
+1076 /shicheng 石城县
+1077 /dexing 德兴市
+1074 /huicang 会昌县
+1075 /xunwu 寻乌县
+1072 /yudu 于都县
+1073 /xingguo 兴国县
+1070 /quannan 全南县
+1071 /ningdu 宁都县
+1678 /quxian 渠县
+1679 /jianyang 简阳市
+1674 /daxian 达县
+1675 /xuanhan 宣汉县
+1676 /kaijian 开江县
+1677 /dazhu 大竹县
+1670 /tongjiangxian 通江县
+1671 /nanjiang 南江县
+1672 /pingcang 平昌县
+1673 /wanyuan 万源市
+1094 /jinxi 金溪县
+1095 /zixi 资溪县
+1096 /dongxiang 东乡县
+1097 /guangcang 广昌县
+1090 /nanfeng 南丰县
+679 /dengkou 磴口县
+1092 /lean 乐安县
+1534 /mashan 马山县
+674 /huade 化德县
+675 /shangdu 商都县
+676 /xinghe 兴和县
+677 /liangcheng 凉城县
+670 /genhe 根河市
+671 /eerguna 额尔古纳市
+672 /fengzhen 丰镇市
+673 /zhuozi 卓资县
+4443 /zichuan 淄川
+1418 /jiahe 嘉禾县
+1419 /linwu 临武县
+1410 /hengnan 衡南县
+1411 /hengshan 衡山县
+1412 /hengdong 衡东县
+1413 /qidongxian 祁东县
+1414 /zixing 资兴市
+1415 /guiyangxian 桂阳县
+1416 /yongxing 永兴县
+1417 /yizhang 宜章县
+1322 /laohekou 老河口市
+1323 /zaoyang 枣阳市
+1320 /yunxi 郧西县
+1532 /shanglin 上林县
+1326 /guchengxian 谷城县
+1327 /baokang 保康县
+1324 /yicheng 宜城市
+1325 /nanzhang 南漳县
+1328 /zhongxiang 钟祥市
+1329 /shayang 沙洋县
+4445 /zhoucun 周村
+1620 /yanting 盐亭县
+1256 /tongxu 通许县
+1525 /lianjian 廉江市
+1526 /leizhou 雷州市
+1255 /kfqixian 杞县
+1252 /fanxian 范县
+1253 /taiqian 台前县
+1522 /gaozhou 高州市
+1251 /nanle 南乐县
+1528 /xuwen 徐闻县
+1529 /wuming 武鸣区
+1258 /xiangfuqu 祥符区
+1259 /lankao 兰考县
+308 /qingyang 庆阳
+309 /dingxi 定西
+300 /jiayuguan 嘉峪关
+301 /jinchang 金昌
+302 /baiyin 白银
+303 /tianshui 天水
+304 /wuwei 武威
+305 /zhangye 张掖
+306 /pingliang 平凉
+307 /jiuquan 酒泉
+1625 /shifang 什邡市
+3603 /tianmushan 天目山
+3602 /qiandaohu 千岛湖
+3601 /fuchunjiang 富春江
+3600 /tongli 同里
+3607 /zhujiajian 朱家尖
+3606 /hengdian 横店
+3605 /moganshan 莫干山
+3604 /yandangshan 雁荡山
+3609 /tianzhushan 天柱山
+3608 /putuoshan 普陀山
+623 /heshun 和顺县
+622 /zuoquan 左权县
+471 /pingquan 平泉县
+1898 /chuxiong 楚雄市
+1899 /shuangbo 双柏县
+1894 /heqing 鹤庆县
+1895 /yangbi 漾濞彝族自治县
+1896 /nanjian 南涧彝族自治县
+1443 /chenxi 辰溪县
+1890 /yongping 永平县
+1891 /yunliu 云龙县
+1892 /eryuan 洱源县
+1893 /jianchuan 剑川县
+959 /hsxixian 歙县
+2137 /lnlixian 礼县
+2134 /kangxian 康县
+2135 /wenxianxian 文县
+2132 /chengxian 成县
+2133 /dangcang 宕昌县
+2130 /weiyuanxian 渭源县
+2131 /longxi 陇西县
+951 /tongcheng 桐城市
+950 /yianqu 义安区
+953 /zongyang 枞阳县
+952 /huaining 怀宁县
+955 /taihu 太湖县
+954 /qianshan 潜山县
+2138 /liangdang 两当县
+2139 /huixianxian 徽县
+1442 /yuanling 沅陵县
+2002 /gaize 改则县
+2003 /cuoqin 措勤县
+2000 /ritou 日土县
+2001 /geji 革吉县
+2006 /huxian 户县
+2007 /gaoling 高陵区
+2004 /lantian 蓝田县
+2005 /zhouzhi 周至县
+2008 /yanchang 延长县
+2009 /yanchuan 延川县
+1790 /rongjian 榕江县
+507 /shunping 顺平县
+3557 /wuqianqi 乌拉特前旗
+3556 /chenhuyouqi 新巴尔虎右旗
+3555 /chenhuzuoqi 新巴尔虎左旗
+3554 /chenhuqi 陈巴尔虎旗
+3553 /ewenkeqi 鄂温克族自治旗
+3552 /elunchunqi 鄂伦春自治旗
+3551 /molidawaqi 莫力达瓦达斡尔族自治旗
+3550 /arongqi 阿荣旗
+3559 /wuhouqi 乌拉特后旗
+3558 /wuzhongqi 乌拉特中旗
+667 /manzhouli 满洲里市
+666 /kailu 开鲁县
+2176 /dari 达日县
+504 /xushui 徐水区
+1261 /yuchengxian 虞城县
+2177 /jiuzhi 久治县
+1799 /wengan 瓮安县
+1798 /guiding 贵定县
+719 /heishan 黑山县
+718 /beining 北镇市
+717 /linghai 凌海市
+1792 /leishan 雷山县
+1791 /congjian 从江县
+714 /gaizhou 盖州市
+713 /dashiqiao 大石桥市
+1796 /fuquan 福泉市
+711 /donggang 东港市
+1794 /danzhai 丹寨县
+1265 /xiayi 夏邑县
+1264 /suixian 睢县
+917 /songyang 松阳县
+1069 /dingnan 定南县
+1068 /liunan 龙南县
+2179 /yushushi 玉树市
+1061 /nankang 南康区
+1060 /ruijin 瑞金市
+1063 /xinfeng 信丰县
+1062 /ganxian 赣县
+1065 /shangyou 上犹县
+1064 /dayu 大余县
+1067 /anyuan 安远县
+1066 /chongyi 崇义县
+1669 /yanbianxian 盐边县
+1668 /miyi 米易县
+1667 /pingshanxian 屏山县
+1666 /xingwen 兴文县
+1665 /gongxian 珙县
+1664 /junlian 筠连县
+1663 /gaoxian 高县
+1662 /changningxian 长宁县
+1661 /jianan 江安县
+1660 /nanxi 南溪县
+591 /lucheng 潞城市
+1086 /wannian 万年县
+1085 /poyang 鄱阳县
+592 /changzhixian 长治县
+595 /pingshun 平顺县
+1082 /hengfeng 横峰县
+597 /huguan 壶关县
+596 /licheng 黎城县
+599 /wuxiang 武乡县
+598 /changzi 长子县
+1089 /lichuanxian 黎川县
+1088 /nancheng 南城县
+1409 /hengyangxian 衡阳县
+1408 /leiyang 耒阳市
+1403 /yanlingxian 炎陵县
+1402 /chaling 茶陵县
+1401 /youxian 攸县
+1400 /zhuzhouxian 株洲县
+1407 /changning 常宁市
+1406 /xiangtanxian 湘潭县
+1405 /shaoshan 韶山市
+1404 /xiangxiang 湘乡市
+1546 /gongcheng 恭城瑶族自治县
+449 /gaoyi 高邑县
+448 /lingshou 灵寿县
+1339 /hongan 红安县
+1338 /wuxue 武穴市
+693 /zhangwu 彰武县
+1335 /dawu 大悟县
+1334 /xiaocang 孝昌县
+441 /jinzhoushi 晋州市
+440 /gaocheng 藁城区
+447 /xingtang 行唐县
+1330 /jingshan 京山县
+1333 /hanchuan 汉川市
+1332 /anlu 安陆市
+1545 /longsheng 龙胜各族自治县
+1542 /ziyuan 资源县
+697 /tielingxian 铁岭县
+39 /jincheng 晋城
+38 /changzhi 长治
+1540 /yongfu 永福县
+33 /langfang 廊坊
+32 /cangzhou 沧州
+31 /chengde 承德
+695 /diaobingshan 调兵山市
+37 /yangquan 阳泉
+36 /datong 大同
+35 /taiyuan 太原
+34 /hengshui 衡水
+1241 /fengqiu 封丘县
+1536 /lingui 临桂县
+1243 /xunxian 浚县
+1242 /changyuan 长垣县
+645 /fenxi 汾西县
+1244 /hbqixian 淇县
+1531 /binyang 宾阳县
+1246 /anyangxian 安阳县
+1249 /neihuang 内黄县
+1248 /huaxian 滑县
+1539 /xinganxian 兴安县
+1538 /quanzhouxian 全州县
+339 /shihezi 石河子
+338 /aletaidiqu 阿勒泰地区
+335 /hetiandiqu 和田地区
+334 /kashidiqu 喀什地区
+337 /tachengdiqu 塔城地区
+336 /yili 伊犁
+331 /bayinguoleng 巴音郭楞
+330 /boertala 博尔塔拉
+333 /kezilesu 克孜勒苏
+332 /akesudiqu 阿克苏地区
+1026 /yongding 永定区
+1464 /yingde 英德市
+2119 /zhenyuanxian 镇原县
+1353 /shishou 石首市
+1462 /yongshun 永顺县
+3630 /qinghaihu 青海湖
+2341 /taichung 台中
+2340 /newtaipei 新北
+1889 /midu 弥渡县
+1888 /binchuan 宾川县
+1887 /xiangyun 祥云县
+1885 /weixi 维西傈僳族自治县
+1884 /deqin 德钦县
+1883 /xianggelila 香格里拉市
+1882 /lanping 兰坪白族普米族自治县
+1881 /gongshan 贡山独龙族怒族自治县
+1880 /fugong 福贡县
+2121 /lingtai 灵台县
+2120 /jingchuan 泾川县
+2123 /huating 华亭县
+2122 /chongxin 崇信县
+2125 /jingningxian 静宁县
+2124 /zhuanglang 庄浪县
+2127 /lintao 临洮县
+949 /nanling 南陵县
+946 /dangtou 当涂县
+947 /wuhuxian 芜湖县
+944 /dingyuan 定远县
+945 /fengyangxian 凤阳县
+942 /laian 来安县
+943 /quanjiao 全椒县
+940 /mingguang 明光市
+941 /tianchang 天长市
+133 /ningde 宁德
+132 /longyan 龙岩
+131 /nanping 南平
+130 /zhangzhou 漳州
+137 /jiujiang 九江
+136 /pingxiang 萍乡
+135 /jingdezhen 景德镇
+134 /nanchang 南昌
+139 /yingtan 鹰潭
+138 /xinyu 新余
+2019 /huangling 黄陵县
+2018 /huangliu 黄龙县
+2015 /fuxian 富县
+2014 /ganquan 甘泉县
+2017 /yichuanxian 宜川县
+2016 /luochuan 洛川县
+2011 /ansai 安塞县
+2010 /zichang 子长县
+2013 /wuqi 吴起县
+182 /jinmen 荆门
+1452 /lengshuijiang 冷水江市
+1793 /majian 麻江县
+3562 /chayouzhongqi 察哈尔右翼中旗
+3563 /chayouhouqi 察哈尔右翼后旗
+3560 /hangjinhouqi 杭锦后旗
+3561 /chayouqianqi 察哈尔右翼前旗
+3566 /keyouzhongqi 科尔沁右翼中旗
+3567 /zhalaiteqi 扎赉特旗
+3564 /siziwangqi 四子王旗
+3565 /keyouqianqi 科尔沁右翼前旗
+3568 /abagaqi 阿巴嘎旗
+3569 /suzuoqi 苏尼特左旗
+708 /taianxian 台安县
+709 /xiuyan 岫岩满族自治县
+704 /huanren 桓仁满族自治县
+705 /dengta 灯塔市
+706 /liaoyangxian 辽阳县
+707 /haicheng 海城市
+700 /lnfushunxian 抚顺县
+701 /xinbin 新宾满族自治县
+702 /fsqingyuan 清原满族自治县
+703 /benxixian 本溪满族自治县
+88 /mudanjiang 牡丹江
+89 /heihe 黑河
+82 /hegang 鹤岗
+83 /shuangyashan 双鸭山
+80 /qiqihaer 齐齐哈尔
+81 /jixi 鸡西
+86 /jiamusi 佳木斯
+87 /qitaihe 七台河
+84 /daqing 大庆
+85 /yichun 伊春
+762 /shuangcheng 双城市
+1658 /gulin 古蔺县
+1659 /yibinxian 宜宾县
+1652 /mabian 马边彝族自治县
+1653 /rongxianxian 荣县
+1650 /muchuan 沐川县
+1651 /ebian 峨边彝族自治县
+1656 /hejianxian 合江县
+1657 /xuyong 叙永县
+1654 /fushunxian 富顺县
+1655 /luxian 泸县
+586 /hunyuan 浑源县
+1986 /xietongmen 谢通门县
+584 /guangling 广灵县
+585 /lingqiu 灵丘县
+763 /shangzhi 尚志市
+583 /tianzhen 天镇县
+580 /youyu 右玉县
+581 /huairen 怀仁县
+1632 /yingshanxian 营山县
+588 /datongxian 大同县
+589 /pingding 平定县
+1633 /pengan 蓬安县
+1634 /yilong 仪陇县
+1635 /xichong 西充县
+1436 /longhui 隆回县
+1437 /dongkou 洞口县
+1434 /shaoyangxian 邵阳县
+1435 /xinshao 新邵县
+1432 /wugangshi 武冈市
+1636 /huayinshi 华蓥市
+1430 /qiyang 祁阳县
+1431 /jianghua 江华瑶族自治县
+418 /zhangjiagang 张家港
+1637 /yuechi 岳池县
+1438 /zysuining 绥宁县
+419 /wujiang 吴江
+1260 /yongcheng 永城市
+1348 /chibi 赤壁市
+1349 /jiayu 嘉鱼县
+1340 /luotian 罗田县
+1341 /yingshan 英山县
+452 /wuji 无极县
+453 /pingshan 平山县
+1344 /huangmei 黄梅县
+1345 /tuanfeng 团风县
+1346 /daye 大冶市
+1347 /yangxinxian 阳新县
+1266 /zhecheng 柘城县
+656 /jiaocheng 交城县
+1503 /enping 恩平市
+654 /lanxian 岚县
+655 /jiaokou 交口县
+652 /fangshan 方山县
+1507 /gaoyao 高要区
+1138 /qingyun 庆云县
+651 /linxian 临县
+1508 /sihui 四会市
+1509 /guangning 广宁县
+658 /tuoketuo 托克托县
+659 /wuchuanxian 武川县
+948 /fancang 繁昌县
+2126 /tongwei 通渭县
+2129 /minxian 岷县
+2128 /zhangxian 漳县
+54 /xilinguole 锡林郭勒
+322 /shizuishan 石嘴山
+323 /wuzhong 吴忠
+320 /haixi 海西
+321 /yinchuan 银川
+326 /kelamayi 克拉玛依
+327 /tulufandiqu 吐鲁番市
+324 /guyuan 固原
+325 /wulumuqi 乌鲁木齐
+328 /hamidiqu 哈密地区
+329 /changjizhou 昌吉州
+3629 /huashan 华山
+3628 /shuanglang 双廊
+3621 /qingchengshan 青城山
+3620 /xilingxueshan 西岭雪山
+3623 /luguhu 泸沽湖
+3622 /tiantaishan 天台山
+3625 /xijiangqianhu 西江千户苗寨
+3624 /huangguoshu 黄果树
+3627 /xizhou 喜洲
+3626 /baiyunshan 白云山
+2335 /taipei 台北
+2336 /hualien 花莲
+2337 /kaohsiung 高雄
+2338 /tainan 台南
+2339 /taoyuan 桃园
+1995 /saga 萨嘎县
+2248 /qitai 奇台县
+2249 /jimusaer 吉木萨尔县
+2244 /fukang 阜康市
+2245 /miquan 米泉市
+2246 /hutubi 呼图壁县
+2247 /manasi 玛纳斯县
+2240 /bole 博乐市
+2241 /jinghe 精河县
+2242 /wenquan 温泉县
+2243 /changji 昌吉市
+995 /songxi 松溪县
+994 /guangze 光泽县
+997 /xianyou 仙游县
+996 /zhenghe 政和县
+991 /jianyangqu 建阳区
+990 /jianou 建瓯市
+993 /pucheng 浦城县
+992 /shuncang 顺昌县
+999 /mingxi 明溪县
+998 /yongan 永安市
+120 /fuyang 阜阳
+121 /anhuisuzhou 宿州
+122 /chaohu 巢湖
+123 /liuan 六安
+124 /bozhou 亳州
+125 /chizhou 池州
+126 /xuancheng 宣城
+127 /putian 莆田
+128 /sanming 三明
+129 /quanzhou 泉州
+1295 /shangcheng 商城县
+2068 /jiaxianxian 佳县
+2069 /wubao 吴堡县
+2060 /fopin 佛坪县
+2061 /shenmu 神木县
+2062 /fugu 府谷县
+2063 /hengshanqu 横山区
+2064 /jingbian 靖边县
+2065 /dingbian 定边县
+2066 /suide 绥德县
+2067 /mizhi 米脂县
+1134 /wucheng 武城县
+3579 /ejinaqi 额济纳旗
+3578 /ayouqi 阿拉善右旗
+3575 /zhengbaiqi 正镶白旗
+3574 /xianghuangqi 镶黄旗
+3577 /azuoqi 阿拉善左旗
+3576 /zhenglanqi 正蓝旗
+3571 /dongwuqinqi 东乌珠穆沁旗
+3570 /suyouqi 苏尼特右旗
+3573 /taipusiqi 太仆寺旗
+3572 /xiwuqinqi 西乌珠穆沁旗
+1748 /tongzi 桐梓县
+1749 /suiyang 绥阳县
+1397 /xiangyin 湘阴县
+1267 /yuzhou 禹州市
+1645 /longcang 隆昌县
+1644 /zizhong 资中县
+1647 /jianwei 犍为县
+1646 /emeishan 峨眉山市
+1641 /shehong 射洪县
+1640 /pengxi 蓬溪县
+1643 /weiyuan 威远县
+1642 /daying 大英县
+1649 /jiajian 夹江县
+1648 /jingyan 井研县
+1742 /xiuwen 修文县
+1743 /xifengxian 息烽县
+579 /yingxian 应县
+578 /shanyin 山阴县
+604 /qinshui 沁水县
+573 /quzhouxian 曲周县
+572 /hdweixian 魏县
+571 /guantao 馆陶县
+570 /guangping 广平县
+577 /loufan 娄烦县
+576 /yangqu 阳曲县
+575 /qingxu 清徐县
+574 /gujiao 古交市
+1209 /xinzheng 新郑市
+600 /qinxian 沁县
+1421 /guidong 桂东县
+2406 /kenting 垦丁
+1423 /dongan 东安县
+1422 /anren 安仁县
+1425 /ningyuan 宁远县
+1424 /daoxian 道县
+1427 /lanshan 蓝山县
+1426 /jianyong 江永县
+1429 /shuangpai 双牌县
+1428 /xintian 新田县
+939 /fengtai 凤台县
+731 /tongyu 通榆县
+730 /zhenlai 镇赉县
+733 /changling 长岭县
+2157 /huangyuan 湟源县
+735 /qianguoerluo 前郭尔罗斯蒙古族自治县
+734 /qiananxian 乾安县
+737 /jiaohe 蛟河市
+736 /panshi 磐石市
+739 /shulan 舒兰市
+738 /huadian 桦甸市
+1359 /zhijian 枝江市
+1358 /jianli 监利县
+469 /chengdexian 承德县
+468 /chongli 崇礼县
+465 /huailai 怀来县
+1352 /tongshanxian 通山县
+1351 /chongyang 崇阳县
+1350 /tongchengxian 通城县
+1357 /gongan 公安县
+1356 /jianling 江陵县
+463 /huaianxian 怀安县
+1354 /honghu 洪湖市
+937 /wuhe 五河县
+2159 /pingan 平安区
+1519 /yangdong 阳东区
+1518 /yangxi 阳西县
+1515 /xinxing 新兴县
+1514 /yunan 云安区
+1517 /yangchun 阳春市
+1516 /yunanxian 郁南县
+1511 /fengkai 封开县
+1510 /huaiji 怀集县
+1513 /luoding 罗定市
+1512 /deqingxian 德庆县
+582 /yanggao 阳高县
+1277 /yexian 叶县
+2112 /sunan 肃南裕固族自治县
+49 /chifeng 赤峰
+355 /kuerle 库尔勒市
+354 /kuitun 奎屯市
+353 /geermu 格尔木市
+351 /zhongwei 中卫
+359 /huangchuan 潢川县
+358 /danzhou 儋州
+2299 /shizhu 石柱土家族自治县
+2298 /zhongxian 忠县
+1033 /xiapu 霞浦县
+2323 /huangdao 黄岛
+1111 /jaxinganxian 新干县
+2321 /panyu 番禺
+2320 /xiaoshan 萧山
+1110 /xiajian 峡江县
+1445 /zhongfang 中方县
+289 /linzhi 林芝市
+3618 /boao 博鳌
+1112 /yongfeng 永丰县
+3619 /huashuiwan 花水湾
+281 /diqing 迪庆
+280 /nujiang 怒江
+283 /lasa 拉萨
+282 /linchang 临沧
+285 /shannan 山南
+284 /changdudiqu 昌都市
+287 /naqu 那曲
+286 /rikazediqu 日喀则
+1117 /yongxin 永新县
+1440 /chengbu 城步苗族自治县
+263 /qianxinan 黔西南
+262 /tongrendiqu 铜仁
+261 /anshun 安顺
+260 /zunyi 遵义
+267 /kunming 昆明
+266 /qiannan 黔南
+265 /qiandongnan 黔东南
+264 /bijieshi 毕节市
+269 /yuxi 玉溪
+268 /qujing 曲靖
+1290 /tongbo 桐柏县
+1291 /xyxixian 息县
+1564 /lingshan 灵山县
+2192 /pingluo 平罗县
+1297 /xinxianxian 新县
+4424 /xindu 新都区
+2193 /qingtongxia 青铜峡市
+1294 /gushi 固始县
+2259 /yining 伊宁市
+2258 /yanqi 焉耆回族自治县
+2257 /bohu 博湖县
+2256 /heshuo 和硕县
+2255 /hejing 和静县
+2254 /qiemo 且末县
+2253 /ruoqiang 若羌县
+2252 /weili 尉犁县
+2251 /luntai 轮台县
+2250 /mulei 木垒哈萨克自治县
+988 /shaowu 邵武市
+989 /wuyishan 武夷山
+982 /minhou 闽侯县
+983 /lianjiangxian 连江县
+980 /jixixian 绩溪县
+981 /changle 长乐
+986 /yongtai 永泰县
+987 /pingtan 平潭县
+984 /luoyuan 罗源县
+985 /minqing 闽清县
+115 /huaibei 淮北
+114 /maanshan 马鞍山
+117 /anqing 安庆
+116 /tongling 铜陵
+111 /wuhu 芜湖
+110 /hefei 合肥
+113 /huainan 淮南
+112 /bengbu 蚌埠
+119 /chuzhou 滁州
+118 /huangshan 黄山
+2079 /xunyang 旬阳县
+2078 /zhenpin 镇坪县
+2073 /shiquan 石泉县
+2072 /hanyin 汉阴县
+2071 /zizhou 子洲县
+2070 /qingjian 清涧县
+2077 /pingli 平利县
+2076 /langao 岚皋县
+2075 /ziyangxian 紫阳县
+2074 /ningshan 宁陕县
+1389 /yuanjian 沅江市
+3508 /shunde 顺德区
+3501 /yongji 永济市
+3502 /hejin 河津市
+3503 /datongqu 大通区
+3504 /lushan 庐山区
+3505 /yiling 夷陵区
+1630 /langzhong 阆中市
+1631 /nanbu 南部县
+1984 /lazi 拉孜县
+1985 /angren 昂仁县
+1982 /dingri 定日县
+1983 /sajia 萨迦县
+1980 /nanmulin 南木林县
+1981 /jianzi 江孜县
+1638 /wusheng 武胜县
+1639 /linshui 邻水县
+1988 /renbu 仁布县
+1989 /kangma 康马县
+568 /qiuxian 邱县
+569 /jizhe 鸡泽县
+560 /handanxian 邯郸县
+561 /linzhang 临漳县
+562 /chengan 成安县
+563 /daming 大名县
+564 /shexian 涉县
+565 /cixian 磁县
+566 /feixiang 肥乡县
+567 /yongnian 永年县
+3171 /taitung 台东
+3170 /keelung 基隆
+3173 /ilan 宜兰
+3172 /chiayi 嘉义
+3175 /zhanghua 彰化
+3174 /hsinchu 新竹
+3177 /miaoli 苗栗
+1188 /wenshang 汶上县
+1189 /sishui 泗水县
+1186 /jinxiang 金乡县
+1187 /jiaxiang 嘉祥县
+1184 /weishan 微山县
+1185 /yutai 鱼台县
+1182 /yanzhou 兖州区
+1183 /zoucheng 邹城市
+1180 /tengzhou 滕州市
+1181 /qufu 曲阜市
+726 /yushushi 榆树市
+727 /nongan 农安县
+724 /dehui 德惠市
+725 /jiutai 九台区
+722 /suizhong 绥中县
+723 /jiancang 建昌县
+720 /jzyixian 义县
+721 /xingcheng 兴城市
+1744 /panxian 盘县
+1745 /chishui 赤水市
+1746 /renhuai 仁怀市
+1747 /zunyixian 遵义县
+1740 /qingzhen 清镇市
+1741 /kaiyang 开阳县
+728 /daan 大安市
+729 /taonan 洮南市
+1164 /jiaozhou 胶州市
+1165 /jimo 即墨市
+1166 /pingdu 平度市
+1167 /jiaonan 胶南市
+1160 /changdao 长岛县
+1161 /rongcheng 荣成
+1162 /rushan 乳山市
+1163 /wendeng 文登区
+1168 /laixi 莱西市
+1169 /wulian 五莲县
+1366 /wufeng 五峰土家族自治县
+48 /wuhai 乌海
+1367 /guangshui 广水市
+46 /huhehaote 呼和浩特
+47 /baotou 包头
+44 /linfen 临汾
+45 /lvliang 吕梁
+42 /yuncheng 运城
+43 /xinzhou 忻州
+40 /shuozhou 朔州
+41 /jinzhong 晋中
+1568 /shangsi 上思县
+1569 /pingxiangshi 凭祥市
+1298 /xiangcheng 项城市
+1299 /fugou 扶沟县
+1292 /huaibin 淮滨县
+1293 /guangshan 光山县
+1562 /luchuan 陆川县
+1563 /bobai 博白县
+1296 /luoshan 罗山县
+1565 /pubei 浦北县
+1566 /hepu 合浦县
+1567 /dongxing 东兴市
+1713 /ganzixian 甘孜县
+1360 /yidu 宜都市
+1712 /luhuo 炉霍县
+1361 /dangyang 当阳市
+795 /jiayin 嘉荫县
+1710 /yajian 雅江县
+793 /suibin 绥滨县
+792 /luobei 萝北县
+4440 /shidao 石岛
+791 /duerbote 杜尔伯特蒙古族自治县
+4441 /xuecheng 薛城
+590 /yuxian 盂县
+1714 /xinliu 新龙县
+1863 /jiangcheng 江城哈尼族彝族自治县
+472 /luanping 滦平县
+473 /longhua 隆化县
+470 /xinglong 兴隆县
+1365 /changyang 长阳土家族自治县
+476 /weichang 围场满族蒙古族自治县
+477 /cangli 昌黎县
+474 /fengning 丰宁满族自治县
+475 /kuancheng 宽城满族自治县
+4444 /linzi 临淄
+478 /funing 抚宁区
+479 /lulong 卢龙县
+1368 /enshi 恩施市
+1369 /lichuan 利川市
+
+362
+344
+345
+346
+340
+341
+342
+2310
+298
+299
+296
+297
+294
+295
+292
+293
+290
+291
+270
+272
+273
+274
+275
+276
+278
+279
+108
+109
+102
+103
+100
+101
+106
+107
+104
+105
+99
+91
+90
+93
+92
+95
+94
+97
+96
+405
+401
+400
+409
+408
+393
+392
+391
+390
+397
+396
+395
+394
+399
+398
+245
+244
+247
+246
+241
+240
+243
+242
+249
+248
+179
+178
+177
+176
+175
+174
+172
+171
+170
+271
+416
+411
+385
+389
+258
+259
+253
+250
+251
+256
+257
+254
+255
+168
+169
+164
+165
+166
+167
+160
+161
+162
+163
+59
+58
+57
+56
+51
+50
+53
+52
+55
+229
+228
+227
+226
+225
+224
+223
+222
+221
+220
+151
+150
+153
+152
+155
+154
+157
+156
+159
+158
+2504
+2503
+238
+239
+234
+235
+230
+231
+232
+233
+1
+146
+147
+144
+145
+142
+143
+140
+141
+148
+149
+1009
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+201
+200
+203
+202
+205
+204
+207
+206
+209
+208
+3
+252
+60
+62
+63
+64
+65
+66
+67
+68
+69
+407
+406
+404
+403
+216
+217
+214
+215
+212
+213
+210
+211
+218
+219
+4
+61
+5
+199
+198
+195
+194
+197
+196
+191
+190
+193
+192
+6
+24
+25
+27
+21
+22
+23
+28
+29
+173
+7
+410
+183
+180
+181
+186
+187
+184
+185
+188
+189
+77
+76
+75
+74
+73
+72
+71
+70
+79
+78
+8
+319
+318
+313
+312
+311
+310
+316
+315
+314
+288
+402
+30
+9
+308
+309
+300
+301
+302
+303
+304
+305
+306
+307
+39
+38
+33
+32
+31
+37
+36
+35
+34
+339
+338
+335
+334
+337
+336
+331
+330
+333
+332
+2341
+2340
+133
+132
+131
+130
+137
+136
+135
+134
+139
+138
+182
+88
+89
+82
+83
+80
+81
+86
+87
+84
+85
+322
+323
+320
+321
+326
+327
+324
+325
+328
+329
+2335
+2336
+2337
+2338
+2339
+120
+121
+123
+125
+126
+127
+129
+2406
+49
+351
+358
+289
+281
+285
+284
+286
+263
+262
+261
+267
+266
+265
+115
+114
+117
+111
+113
+112
+119
+48
+46
+47
+44
+45
+42
+43
+40
+41
