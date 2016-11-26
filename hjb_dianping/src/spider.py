@@ -167,7 +167,7 @@ if __name__=='__main__':
 
     fet=Fetcher(search_host)
     for c in bigCity:
-        if int(c)>1:        #debug 以上海为例
+        if int(c)!=2:        #debug 以上海为例
             continue
         crawOneCity(fet,cityID=c,start=0)
 
