@@ -1,4 +1,4 @@
-jsonp1478595937182({
+{
     "brandKeyword": false,
     "isEnd": false,
     "list": [{
@@ -1101,5 +1101,5 @@ jsonp1478595937182({
     "recordCount": 179570,
     "searchResultExtraInfo": "{\"AdLabel\":\"广告\"}",
     "startIndex": 25
-})
+}
 

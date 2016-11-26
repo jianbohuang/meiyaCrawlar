@@ -1,9 +1,9 @@
 # coding=utf-8
 __author__='hjb'
-import time,random
+import time,random,sys
 import urllib2,cookielib,json
 from ContentEncodingProcessor import ContentEncodingProcessor
-import sys
+from mysqlUtil import  SqlUtil
 default_encoding = 'utf-8'
 if sys.getdefaultencoding() != default_encoding:
     reload(sys)
@@ -18,6 +18,7 @@ class Fetcher():
         self.opener=None
         self._setOpener(proxy,cookie)
         self.referer=''
+        self.dbUtil=SqlUtil('dianping')
 
     def _setOpener(self,proxy=None,cookie=None):
         self.proxy_support = urllib2.ProxyHandler(proxy)
@@ -44,7 +45,7 @@ class Fetcher():
         return url
 
     #TODO: 添加被封时换代理or拨号
-    def downLoadContent(self, url, times=1,timeout=5):
+    def downLoadContent(self, url, times=1,timeout=10):
         ''' 获取URL的内容 '''
         req = urllib2.Request(url, None, self.getHeader())
         # self.referer=url  #更新referer
@@ -52,47 +53,93 @@ class Fetcher():
             try:
                 response = urllib2.urlopen(req,timeout=timeout)
                 # response.encoding='utf-8'
-
                 if response.code!=200:
-                    if response.code==404:
-                        print 'Warning:404,url=%s,times=%s' % (response.geturl(), i)
+                    if response.code==403:  #403多半是IP被封
+                        print 'Warning:IP封->%s url=%s,times=%s' % (response.response.read(),response.geturl(), i)
                     else:
-                        print 'Warning:被封->%s url=%s,times=%s' % (response.response.read(),response.geturl(), i)
-                    time.sleep(3)  # 暂停1s TODO:换IP
+                        print 'Warning:code!=200,url=%s,times=%s' % (response.geturl(), i)
+                    time.sleep(3)  # 暂停1s
                     continue
                 else:
                     content = response.read()
-                    print response.info
+                    # print response.info
                     # content=content.decode('gbk').encode('utf-8')
                     return content
-            except urllib2.HTTPError, e:
-                time.sleep(random.randint(10,25)/10.0)  # 暂停1s
-                print 'HTTPError:code=%s,reason=%s,times=%s,%s' % (e.code, e.reason, i,url)
+            except (urllib2.URLError,urllib2.HTTPError), e:
+                time.sleep(15)  # 暂停1s
+                print 'HTTPError:reason=%s,times=%s,url=%s e=' % ( e.reason, i,url),e
+                continue
+            except Exception,ex:
+                time.sleep(20)  # 暂停1s
+                print ex
                 continue
         return None
 
 
-    def parseContent(self,content):
-        data_list=[]
+    def parseContent(self,content,url):
         content = content[content.find('(') + 1:content.rfind(')')]
         data=json.loads(content)  #utf-8
-        isEnd=data['isEnd']
-        shop_list=data['list']
+        shop_list = data.get('list')
+        if shop_list == None:
+            print u'Error: 可能被封了 json search has not list'
+            return -1,False
+        slen=len(shop_list)
+        isEnd = data.get('isEnd', True)
+        if slen<=0 :
+            print u'Error: 没有更多结果。json list is empty isEnd=%s' %isEnd
+            return -2,isEnd
+
+        queryData = {}
+        queryData['isEnd'] = int(isEnd)
+        queryData['queryId'] = data.get('queryId','')
+        queryData['recordCount'] = data.get('recordCount',0)
+        queryData['startIndex'] = data.get('startIndex',0)
+        queryData['nextStartIndex'] = data.get('nextStartIndex',0)
+        queryData['url'] = url
+        rowid=self.dbUtil.insertQuery(queryData)
         # nextStartIndex=data['nextStartIndex']  #下一个起始索引
-        if isEnd==True :
-            print 'Debug: json search is end'
+        if rowid == -1:
+            print 'Error: insert search table fail,return.url=%s'% url
+            return 0, isEnd
 
-        if len(shop_list)<=0:
-            print 'Error: json search has not list'
-            return data_list
+        shopData = {}
+        dataStr=''
         for shop in shop_list:
-            shopName=shop['name']
-            shopID=shop['id']
-            data_list.append((shopName,shopID))
-        if len(data_list) <=0:
-            print 'Error: parseContent nothing!'
+            shopData['id'] = shop.get('id',-1)
+            shopData['name'] = shop.get('name','').replace("'","\\'")
+            shopData['adShop'] = int(shop.get('adShop',0))
+            shopData['authorityLabelType'] = shop.get('authorityLabelType',6)
+            shopData['bookable'] = int(shop.get('bookable',0))
+            shopData['branchName'] = shop.get('branchName').replace("'","\\'")
+            shopData['categoryId'] = shop.get('categoryId', 6)
+            shopData['categoryName'] = shop.get('categoryName')
+            shopData['cityId'] = shop.get('cityId')
+            shopData['defaultPic'] = shop.get('defaultPic')
+            shopData['hasDeals'] = int(shop.get('hasDeals',0))
+            shopData['hasMoPay'] = int(shop.get('hasMoPay',0))
+            shopData['hasPromo'] = int(shop.get('hasPromo',0))
+            shopData['hasTakeaway'] = int(shop.get('hasTakeaway',0))
+            shopData['hotelBookable'] = int(shop.get('hotelBookable',0))
+            shopData['matchText'] = shop.get('matchText')
+            shopData['memberCardId'] = shop.get('memberCardId')
+            shopData['newShop'] = int(shop.get('newShop',0))
+            shopData['orderDish'] = int(shop.get('orderDish',0))
+            shopData['queueable'] = int(shop.get('queueable',0))
+            shopData['priceText'] = shop.get('priceText')
+            shopData['regionName'] = shop.get('regionName')
+            shopData['shopPower'] = shop.get('shopPower')
+            shopData['shopType'] = shop.get('shopType')
+            shopData['status'] = shop.get('status')
+            shopData['tagList'] = ' '.join([x.get('text','') for x in shop.get('tagList',[])]) #提取标签
+            shopData['searchquery'] = rowid  #记录商店属于哪次搜索
+            dataStr='%s, (%s)' % (dataStr,"'" + "','".join(map(str, shopData.values())) + "'")
 
-        return data_list,isEnd
+        fieldStr=','.join(map(str, shopData.keys()))
+        rowid=self.dbUtil.insertShop(fieldStr, dataStr[1:])
+        if rowid == -1:
+            slen=0
+            # print 'Error: insert shoplist table fail !!!'
+        return slen,isEnd
 
 
     #把列表追加写入文件中,返回写入条目的数量

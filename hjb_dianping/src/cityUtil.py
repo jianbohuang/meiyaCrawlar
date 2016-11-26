@@ -91,7 +91,7 @@ def readfile(filename):
         count=int(f.readline())
         for i in xrange(count):
             city=f.readline()
-            bigCity.append(city)
+            bigCity.append(city.strip())
         f.close()
 
     return allCity,bigCity
@@ -101,6 +101,7 @@ def getCity(update=False):
         return updateCity()
     else:
         return readfile('cityList.txt')
+
 
 if __name__=='__main__':
     print 'test'
