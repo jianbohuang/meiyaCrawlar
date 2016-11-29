@@ -21,9 +21,9 @@ def getCategory(content):
 def getRegion(content):
     content = content[content.find('(') + 1:content.rfind(')')]
     data = json.loads(content)  # utf-8
-    recordCount = data.get('recordCount')
+    recordCount = data.get('recordCount',0)
     if recordCount<5100:
-        return []
+        return [],recordCount
     regionNavs=data.get('regionNavs')
     region_lsit=[]
     for region in regionNavs:
@@ -31,7 +31,7 @@ def getRegion(content):
         if parentId == 0 and region.get('id') !=-10000:
             region_lsit.append(region.get('id'))
 
-    return region_lsit
+    return region_lsit,recordCount
 
 # #下载一个城市，直到结束
 # def crawOneCity(fetcher,cityID,start):
@@ -80,7 +80,7 @@ def crawOneCity(fetcher,cityID,start):
     fail_con=0
     save_fail_con=0
     url = fetcher.formUrl(start=0, categoryid=0, cityid=cityID)  # 种类0会返回所有类别的结果
-    content = fetcher.downLoadContent(url, times=7)  # content is utf-8
+    content = fetcher.downLoadContent(url, times=10)  # content is utf-8
     if content == None:
         with open('../result/fail_url_%s.txt' % cityID, 'a') as f:  # 记录失败的下来
             f.write('fail_con=%s,%s' % (fail_con, url))
@@ -90,7 +90,8 @@ def crawOneCity(fetcher,cityID,start):
 
     # startbug=False#debug
     # startbug2=False
-    region_lsit = getRegion(content) #获取业务种类和地区
+    region_lsit,recodCnt = getRegion(content) #获取业务种类和地区
+    print'Debug: city %s has %s shop recod!' % (cityID,recodCnt)
     if len(region_lsit) >0 :
         for region in region_lsit:
             # if startbug ==False:#debug
@@ -98,7 +99,8 @@ def crawOneCity(fetcher,cityID,start):
             #         startbug=True
             #     else:
             #         continue
-            url = fetcher.formUrl(start=0, regionid=region,categoryid=0, cityid=cityID)  # 种类0会返回所有类别的结果
+            time.sleep(1)
+            url = fetcher.formUrl(start=0, regionid=region,categoryid=0, cityid=cityID)
             content = fetcher.downLoadContent(url, times=5)  # content is utf-8
             categorys = getCategory(content)  # 获取业务种类和地区
             if  len(categorys) >0:
@@ -119,6 +121,12 @@ def crawOneCity(fetcher,cityID,start):
         fail_con += fail
         save_fail_con += save_fail
 
+
+    if fail_con>1000 or save_fail_con>1000:
+        with open('../result/fail_url_%s.txt' % cityID, 'a') as f:  # 记录失败的下来
+            f.write('fail_con=%s,%s' % (fail_con, url))
+            f.close()
+        print 'Error :Get start=0 fail,end up this city!'
     print '---end crawling city=%s,%s---' % (cityID, fetcher.getTime())
 
 
@@ -130,7 +138,7 @@ def crawOneSearch(fetcher, regionid, categoryid, cityID):
         if isEnd == True:
             break
         url = fetcher.formUrl(start=startIndex, regionid=regionid, categoryid=categoryid, cityid=cityID)  # 种类0会返回所有类别的结果
-        content = fetcher.downLoadContent(url, times=4)  # content is utf-8
+        content = fetcher.downLoadContent(url, times=5)  # content is utf-8
         if content == None:
             with open('../result/fail_url_%s.txt' % cityID, 'a') as f:  # 记录失败的下来
                 f.write('fail_con=%s,%s' % (fail_con, url))
@@ -149,11 +157,15 @@ def crawOneSearch(fetcher, regionid, categoryid, cityID):
                 print 'Debug:return empty list,isEnd=%s' % isEnd
         else:
             print 'Debug:city=%s startIndex=%s regionid=%s write_num=%s' % (cityID, startIndex,regionid, list_len)
-        time.sleep(random.randint(8, 20) / 10.0)  # 暂停1s
+        time.sleep(random.randint(7, 15) / 10.0)  # 暂停1s
     return fail_con,save_fail_con
 
 
 if __name__=='__main__':
+    if len(sys.argv)!=2:
+        print 'usge: python spider.py startCityID endCityID'
+        sys.exit()
+
     print '---start dianping.com spider---%s' %time.strftime('%Y-%m-%d %X', time.localtime())
     search_host='mapi.dianping.com'
 
@@ -167,7 +179,7 @@ if __name__=='__main__':
 
     fet=Fetcher(search_host)
     for c in bigCity:
-        if int(c)!=2:        #debug 以上海为例
+        if int(c)<sys.argv[1] or int(c)>sys.argv[2]:        #debug 26->50
             continue
         crawOneCity(fet,cityID=c,start=0)
 

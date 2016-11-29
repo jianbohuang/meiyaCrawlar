@@ -140,52 +140,8 @@ import json
 # print(s.decode())
 # a=[1,2]
 # b=(1,2)
-urls='http'
-a={'1':'abc-','2':{'type':0},'3':['g','h','i']}
-b='http://mapi.dianping.com/searchshop.json?start=28&regionid=4137&categoryid=10&sortid=0&locatecityid=129&cityid=129&_=1479966935817&callback=jsonp1479966935857'
-c=[{
-            "icon": "",
-            "text": "放松舒服",
-            "type": 3
-        },
-        {
-            "icon": "",
-            "text": "免费点心",
-            "type": 3
-        }]
-c=[]
-d=str(' '.join([x.get('text','')for x in c]))
-print sys.maxint
-ss="wlian's waitan"
-print ss
-print ss.replace("'","\\'")
-
-sql = "CREATE TABLE IF NOT EXISTS shoplist (\
-    id         INT        NOT NULL ,\
-    name       VARCHAR(100)   NULL,\
-    adShop     TINYINT(1) NOT NULL DEFAULT 0,\
-    authorityLabelType INT NOT NULL DEFAULT 6,\
-    bookable   TINYINT(1)     NULL DEFAULT 0,\
-    branchName VARCHAR(50)    NULL,\
-    categoryId INT        NOT NULL,\
-    categoryName VARCHAR(100) NULL,\
-    cityId     INT        NOT Null,\
-    defaultPic VARCHAR(255)   NULL,\
-    hasDeals   TINYINT(1) NOT NULL DEFAULT 0,\
-    hasMoPay   TINYINT(1) NOT NULL DEFAULT 0,\
-    hasPromo   TINYINT(1) NOT NULL DEFAULT 0,\
-    hasTakeaway TINYINT(1) NOT NULL DEFAULT 0,\
-    hotelBookable TINYINT(1) NOT NULL DEFAULT 0,\
-    matchText  VARCHAR(100)   NULL,\
-    memberCardId INT      NOT NULL DEFAULT 0,\
-    newShop    TINYINT(1) NOT NULL DEFAULT 0,\
-    orderDish  TINYINT(1) NOT NULL DEFAULT 0,\
-    queueable  TINYINT(1) NOT NULL DEFAULT 0,\
-    priceText  VARCHAR(50)    NULL,\
-    regionName VARCHAR(100)   NULL,\
-    shopPower  INT            NULL,\
-    shopType   INT        NOT NULL,\
-    status     INT        NOT NULL DEFAULT 0,\
-    tagList    VARCHAR(100)   NULL,\
-    searchquery INT       NOT NULL,\
-    PRIMARY KEY (id));"
+#python
+import sys
+print 'run:',sys.argv[0]
+for i in range(1,len(sys.argv)):
+    print sys.argv[i]
