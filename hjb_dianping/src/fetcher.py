@@ -53,6 +53,7 @@ class Fetcher():
             try:
                 response = urllib2.urlopen(req,timeout=timeout)
                 # response.encoding='utf-8'
+                # print 'Debug:times=%s.code=%s' % (i,response.code)
                 if response.code!=200:
                     if response.code==403:  #403多半是IP被封
                         print 'Warning:IP封->%s url=%s,times=%s' % (response.response.read(),response.geturl(), i)
@@ -71,7 +72,7 @@ class Fetcher():
                 continue
             except Exception,ex:
                 time.sleep(20)  # 暂停1s
-                print ex
+                print 'Exception:%s' %ex
                 continue
         return None
 
@@ -167,8 +168,8 @@ class Fetcher():
         baidu='Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)'
         Safari='Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B137 Safari/601.1'
         Android='Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
-        header['User-Agent'] = Android
-        header['Accept'] = '*/*'
+        header['User-Agent'] = Safari
+        header['Accept'] = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
         # header['Accept-Encoding']='gzip, deflate, sdch'
         header['Accept-Language'] = 'zh-CN,zh;q=0.8'
         header['Cache-Control'] = 'no-cache'

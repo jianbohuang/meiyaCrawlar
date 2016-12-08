@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>金钱柜量贩KTV(天津街店)天津街店</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <link rel="shortcut icon" href="http://i3.dpfile.com/s/res/favicon.5ff777c11d7833e57e01c9d192b7e427.ico" type="image/x-icon" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="email=no" />
+    <meta name="apple-mobile-web-app-title" content="大众点评" />
+    <link rel="apple-touch-icon-precomposed" href="//www.dpfile.com/m/img/app/dianping/logoforiphone.eb494fad081fe8a318aec427d5de0b43.png" />
+    <link rel="apple-touch-startup-image" href="//www.dpfile.com/m/img/app/dianping/iphonesplash.88eba14b27357f754baa669bebbdd78b.png" />
+    <link rel="icon" sizes="any" mask href="//www.dpfile.com/m/img/app/dianping/logo.svg" />
+    <meta name="theme-color" content="#f2991b" />
+
+    <meta name="keywords" content="天津街店大连" />
+    <meta name="description" content="★★★★★\n¥61/人\n长江路168号佳兆业2楼" />
+
+    <meta name="location" content="province=辽宁;city=大连">
+
+    <script>
+        var G_rtop = +new Date,
+            _hip = [
+                ['_setPageId', 210008],
+                ['_setCityId', 0]
+            ];
+    </script>
+    <!--美团性能监测-->
+    <script>
+        !function(e,t,n){function s(){var e=t.createElement("script");e.async=!0,e.src="https://s0.meituan.net/bs/js/?f=mta-js:mta.min.js";var n=t.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)}if(e.MeituanAnalyticsObject=n,e[n]=e[n]||function(){(e[n].q=e[n].q||[]).push(arguments)},"complete"===t.readyState)s();else{var r="addEventListener",i="attachEvent";if(e[r])e[r]("load",s,!1);else if(e[i])e[i]("onload",s);else{var a=e.onload;e.onload=function(){s(),a&&a()}}}}(window,document,"mta"),function(e,t,n){if(t&&!("_mta"in t)){t._mta=!0;var s=e.location.protocol;if("file:"!==s){var r=e.location.host,i=t.prototype.open;t.prototype.open=function(t,n,a,o,h){if(this._method="string"==typeof t?t.toUpperCase():null,n){if(0===n.indexOf("http://")||0===n.indexOf("https://")||0===n.indexOf("//"))this._url=n;else if(0===n.indexOf("/"))this._url=s+"//"+r+n;else{var l=s+"//"+r+e.location.pathname;l=l.substring(0,l.lastIndexOf("/")+1),this._url=l+n}var u=this._url.indexOf("?");-1!==u?(this._searchLength=this._url.length-1-u,this._url=this._url.substring(0,u)):this._searchLength=0}else this._url=null,this._searchLength=0;return this._startTime=(new Date).getTime(),i.apply(this,arguments)};var a="onreadystatechange",o="addEventListener",h=t.prototype.send;t.prototype.send=function(t){function n(n,r){if(0!==n._url.indexOf(s+"//frep.meituan.net/_.gif")){for(var i="browser.ajax",a=[98,114,111,119,115,101,114,46,97,106,97,120],o=0,h=i.length;h>o;o++)if(i.charCodeAt(o)!==a[o])return;var l;if(n.response)switch(n.responseType){case"json":l=JSON&&JSON.stringify(n.response).length;break;case"blob":case"moz-blob":l=n.response.size;break;case"arraybuffer":l=n.response.byteLength;case"document":l=n.response.documentElement&&n.response.documentElement.innerHTML&&n.response.documentElement.innerHTML.length+28;break;default:l=n.response.length}e.mta("send",i,{url:n._url,method:n._method,error:!(0===n.status.toString().indexOf("2")||304===n.status),responseTime:(new Date).getTime()-n._startTime,requestSize:n._searchLength+(t?t.length:0),responseSize:l||0})}}if(o in this){var r=function(e){n(this,e)};this[o]("load",r),this[o]("error",r),this[o]("abort",r)}else{var i=this[a];this[a]=function(t){i&&i.apply(this,arguments),4===this.readyState&&e.mta&&n(this,t)}}return h.apply(this,arguments)}}}}(window,window.XMLHttpRequest,"mta");
+
+        // 初始化项目
+        mta("create","57611915f66608590c909e3a");
+        // 推荐设置上报地址为 HTTPS 协议，以获得更高的数据准确性，默认会和页面协议一致
+        mta("config", "beaconImage", "https://frep.meituan.com/_.gif");
+
+        // 发送页面性能指标，包括 ttfb（首字节）、domReady（可交互）、load（完全加载）等
+        mta("send","page");
+    </script>
+
+    <link rel="stylesheet" href="//www.dpfile.com/concat/~mod~app-m-midas~0.6.2~css~style.css" type="text/css"/>
+</head>
+
+
+<body class="shop-details">
+
+<link rel="stylesheet" href="//www.dpfile.com/app/app-m-module/static/css/shop-entry.min.b59dfe6b705f088ef37e825bdd1a9a1f.css" type="text/css"/>
+
+<script>
+    window.PAGE_DATA = {
+        shopId:5447280,
+            regionId: '',
+            cityId: '19',
+            shopType: '15',
+            categoryId: '2890',
+            pageInfo:'{"id":0,"mSource":"default","pageEnName":"shop","pageName":null,"abVersion":"A","otherInfo":{"hippoPageId":210008},"moduleInfoList":[{"moduleName":"header","version":1,"config":{}},{"moduleName":"baseinfo","version":1,"config":{"hidePicLink":false,"hideMultipic":false,"hideShanhui":false}},{"moduleName":"address","version":1,"config":{}},{"moduleName":"phone","version":1,"config":{}},{"moduleName":"massage-booking","version":1,"config":{}},{"moduleName":"ktv-book","version":1,"config":{}},{"moduleName":"orders","version":1,"config":{"hasDingzuo":true,"hasDiancai":true,"hasPaihao":true,"hasWaimai":true}},{"moduleName":"hotelinfo","version":1,"config":{}},{"moduleName":"hotel-book","version":1,"config":{}},{"moduleName":"oversea-ticket","version":1,"config":{}},{"moduleName":"shanhui","version":1,"config":{}},{"moduleName":"tuan","version":1,"config":{}},{"moduleName":"membercard","version":1,"config":{}},{"moduleName":"promo","version":1,"config":{}},{"moduleName":"activity","version":1,"config":{}},{"moduleName":"recommend","version":1,"config":{"hideLink":false}},{"moduleName":"ktvmg","version":1,"config":{}},{"moduleName":"review","version":1,"config":{"hideLink":false}},{"moduleName":"otherinfo","version":1,"config":{}},{"moduleName":"rank","version":1,"config":{}},{"moduleName":"branch","version":1,"config":{}},{"moduleName":"ad","version":1,"config":{}},{"moduleName":"ugc","version":1,"config":{}},{"moduleName":"breadcrumb","version":1,"config":{}},{"moduleName":"bottom-search","version":1,"config":{}},{"moduleName":"bottom-app","version":1,"config":{}},{"moduleName":"footer","version":1,"config":{}},{"moduleName":"gift","version":1,"config":{}}]}',
+            content:'★★★★★\n¥61/人\n长江路168号佳兆业2楼',
+            showMTP:'false',
+            share:{
+                title: '金钱柜量贩KTV(天津街店)天津街店',
+                desc: '★★★★★\n¥61/人\n长江路168号佳兆业2楼',
+                image: 'http://qcloud.dpfile.com/pc/NMN5fd6du96xcJR2O4kyR336C7u-VSAGj-GrzA_Y0AjRYGyP8AybpPZbV1VuhnXgtOnd3gXQdDYlAqlaVaAFeZ0rYYyiRo_EhzufqWWjTjs.jpg',
+                url:location.href,
+                content:'★★★★★\n¥61/人\n长江路168号佳兆业2楼'
+            }
+    }
+</script>
+
+
+
+
+<script>!function(){try{var o="midasclick",n=document.cookie,t=n.split(";"),i="";t.forEach(function(n){var t=n.split("=");if(2===t.length){var c=t[0].trim(),e=t[1].trim();c===o&&""!==e&&'""'!==e&&(i=e)}});var c=function(o){var n=new Image(1,1);n.onload=n.onerror=function(){n=null},n.src=o},e=decodeURIComponent(i);if(""!==e&&'""'!==e){var a,m,r,p=e.split("|"),d=p[0],l=location.host;l.indexOf("dianping.com")>-1&&!/^ppe/.test(l)?(a="https://mlog.dianping.com/log",r="dianping.com"):(a="https://mlog.51ping.com/log",r="51ping.com"),m=d.indexOf("?")>-1?d:a+"?"+decodeURIComponent(d),m=m+"&act=2&t="+(new Date).getTime(),c(m),p[1]&&c(p[1]),document.cookie=o+"=;path=/;domain="+r}}catch(g){console.error(g)}}();</script>
+
+
+
+
+    
+        <div class="J_header" >
+        
+<header class="shop-head">
+    <a href="javascript:history.go(-1);" class="back">返回
+    </a>
+    <div class="placeholder"></div>
+    <div class="title">商户详情</div>
+    <a class="shop-share" onclick="_hip.push(['mv', {module:'shopinfo_share',action:'click',shopid:'5447280'}]);" href="javascript:;"></a>
+    <a class="info_search J_search_trigger" onclick="_hip.push(['mv', {module:'shopinfo_search',action:'click'}]);" href="javascript:;"></a>
+</header>
+
+        </div>
+    
+        <div class="J_baseinfo" >
+        
+
+
+<div class="shopInfoPagelet shopMorePics">
+    <div class="shopPicBg morePics">
+        <span class="shop-name">金钱柜量贩KTV(天津街店)</span>
+        <p>
+            <span class="star star-50"></span>
+            
+            <span class="itemNum"> <span class="itemNum-val">2499</span>条</span>
+            
+            ¥<span class="price">61</span>/人
+            <span class="mainType">天津街/人民路</span>
+            <span class="subType">量贩式KTV</span>
+        </p>
+    </div>
+    <a class="new_pic" href="/shop/5447280/photos" onclick="_hip.push(['mv', {module:'shopinfo_photo',action:'click',shopid:'5447280'}]);">
+    
+        <span>
+        <img src="http://qcloud.dpfile.com/pc/NMN5fd6du96xcJR2O4kyR336C7u-VSAGj-GrzA_Y0AjRYGyP8AybpPZbV1VuhnXg_Gd2X_f-v9T8Yj4uLt25Gg.jpg" class="preview_img" width="90px">
+        </span>
+    
+        <span>
+        <img src="http://p1.meituan.net/dpdeal/c063873f40ba7125d0171cb5f49c698e77924.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20" class="preview_img" width="90px">
+        </span>
+    
+        <span>
+        <img src="http://qcloud.dpfile.com/pc/ZXi_0-WVROsSjZFA87FJOeRd43vC7kUjhBRbQz7sTA0E6GwR889-eGUMyMSWxJji_Gd2X_f-v9T8Yj4uLt25Gg.jpg" class="preview_img" width="90px">
+        </span>
+    
+        <span>
+        <img src="http://qcloud.dpfile.com/pc/fyD3CWEbud5RugwqYM969obSYH24cxf0Flgq6vX0IbvAxzdekhTcSA766YY2lur4_Gd2X_f-v9T8Yj4uLt25Gg.jpg" class="preview_img" width="90px">
+        </span>
+    
+        <span>
+        <img src="http://qcloud.dpfile.com/pc/tumua8bQhqQEv1DWGSDALwwjlUGGqUcxv6LLy5cXxkfdz0T7FCpDSEZhirUeDjz8_Gd2X_f-v9T8Yj4uLt25Gg.jpg" class="preview_img" width="90px">
+        </span>
+    
+    </a>
+
+
+
+
+<div class="desc">
+    
+        
+            <a href="http://m.dianping.com/hui/unicashier/loadUnicashier?shopId=5447280&amp;cityId=19&amp;orderBizType=10" class="submitBtn" onclick="_hip.push(['mv', {module:'1_button_shanhui',action:'click',shopid:'5447280'}]);">买单</a>
+        
+</div>
+
+</div>
+        </div>
+    
+        <div class="J_address" >
+        <div class="details-mode info-address">
+    <div class="info-list link-list">
+        <a class="item" href="/shop/5447280/map" onclick="_hip.push(['mv', {module:'shopinfo_address',action:'click',shopid:'5447280'}]);">
+            <i class="icon-address"></i>长江路168号佳兆业2楼(近天津街)
+            <i class="arrowent"></i>
+        </a>
+    </div>
+</div>
+        </div>
+    
+        <div class="J_phone" >
+        
+<div class="details-mode info-address">
+    <div class="info-list link-list">
+        
+        <div>
+            <a class="item " href="tel:041182505111"
+               onclick="_hip.push(['mv', {module:'shopinfo_tel',action:'click',shopid:'5447280'}]);">
+                <i class="icon-call"></i>041182505111
+                <i class="arrowent"></i>
+            </a>
+        </div>
+        
+    </div>
+</div>
+
+        </div>
+    
+        <div class="J_massage-booking" >
+        
+        </div>
+    
+        <div class="J_ktv-book" >
+        
+
+<div class="details-mode info-ktvbooking Hide" id="J_ktvBookContainer">
+    <div class="bord"></div>
+    <!--kb title-->
+    <div class="ktv-bktitle mb-line-b">
+        <i class="mark-book"></i>
+        预订
+        <span class="ktv-bktitle-tag Hide" id="J_kbWTag"></span>
+        <span class="ktv-bktitle-num Hide" id="J_kbBNum"></span>
+    </div>
+    <!--kb daytab-->
+    <div class="ktv-bk-daytab">
+        <div class="mb-nav-scroll-wrapper">
+            <div class="nav-tab-scroll" id="J_ktvBkDayTab">
+            </div>
+        </div>
+    </div>
+    <!--ktv time select-->
+    <div class="ktv-bk-timepanel">
+        <div class="kb-tp-empty Hide" id="J_kbTPEmpty">今天暂不支持预订哦～</div>
+        <div class="mb-select-panel Hide" id="J_ktvBkTimePanel">
+        </div>
+    </div>
+
+    <div class="ktv-bktlist mb-line-b Hide" id="J_kbLWrap">
+        <div class="ktv-bklist-title Hide">9.5折仅限纯欢唱无酒水情况</div>
+        <div id="J_kbRList" class="mb-line-t">
+        </div>
+        <a href="javascript:;" class="kbl-showmore mb-line-t" id="J_kblShowMore">更多<i class="mb-arrow arrow-bottom"></i></a>
+    </div>
+    <div class="bord"></div>
+</div>
+
+
+<script>
+    window.PAGE_DATA.ktv = {
+        shopId:'5447280',
+        isLogin:0,
+        hasBook:true
+    }
+</script>
+
+        </div>
+    
+        <div class="J_orders" >
+        
+
+
+
+
+
+
+
+<div class="standardBord"></div>
+        </div>
+    
+        <div class="J_hotelinfo" >
+        
+        </div>
+    
+        <div class="J_hotel-book" >
+        
+        </div>
+    
+        <div class="J_oversea-ticket" >
+        
+        </div>
+    
+        <div class="J_shanhui" >
+        
+    <div class="shop-hui-list">
+        <div class="hui-igroup"></div>
+        <div class="hui-list">
+            
+                
+                    <a class="item" href="http://m.dianping.com/hui/unicashier/loadUnicashier?shopId=5447280&amp;cityId=0&amp;orderBizType=10" onclick="_hip.push(['mv', {module:'5_deal_shanhui',action:'click',shopid:'5447280'}]);">
+                    <div class="cnt">
+                        <div class="content">
+                            <div class="newtitle">
+                                    每满100减10元
+                                
+                            </div>
+                            
+                                <div class="info">每天00:00~24:00</div>
+                            
+                            
+                                <div class="info" >
+                                        <span style="color:999999;background-color: ">
+                                           
+                                        </span>
+                                    
+                                </div>
+                            
+                        </div>
+                        
+                                <span class="soldNum">
+                                    已买14
+                                </span>
+                        
+                    </div>
+                    <span class="arrowent"></span>
+                    </a>
+                
+            
+        </div>
+    </div>
+
+        </div>
+    
+        <div class="J_tuan" >
+        
+
+
+
+        </div>
+    
+        <div class="J_membercard" >
+        
+        </div>
+    
+        <div class="J_promo" >
+        
+        </div>
+    
+        <div class="J_activity" >
+        
+
+        </div>
+    
+        <div class="J_recommend" >
+        
+        </div>
+    
+        <div class="J_ktvmg" >
+        
+        </div>
+    
+        <div class="J_review" >
+        
+<div class="modebox shop-comment">
+    <a onclick="_hip.push(['mv', {module:'shopinfo_viewreview',action:'click',shopid:'5447280'}]);"
+       href="/shop/5447280/review_all">
+        <span class="title-item"> 网友点评(2499) <i class="arrowent"></i> </span>
+    </a>
+
+    <div class="comment-list">
+        
+            <div class="singleUser" data-id="318063214">
+                <div class="user-pic">
+                    <img src="http://p0.meituan.net/relationwxpic/a93ba4251c78cb7687274638fb540e2c3322.jpg%4048w_48h_1e_1c_1l">
+                </div>
+                <a class="comment"
+                   onclick="_hip.push(['mv', {module:'shopinfo_viewreview',action:'click',shopid:'5447280'}]);"
+                   href="/shop/5447280/review_all" >
+                    <div class="username">
+                        marguerite一婷
+                    </div>
+                    <div class="info">
+                        <span class="star star-50"></span>
+                        
+                            
+                        
+                    </div>
+                    <div class="comment-entry">
+                        金钱柜KTV 天津街店
+
+和同学逛胜利地下 吃了美味的金三顺拌饭。正在考虑去哪里玩 看见金钱柜KTV的团购券好便宜 就团购了一张过来唱歌🎤
+
+【环境】位置很好找 环境很好很干净 但是不知道为什么有一股怪怪的味道 可能是消毒水味吧。 总体来说不错。因为我们一共四个人 所以分到了最小的包间。空间不是很大。
+
+【音响】音响感觉声音有点颤 可能是因为屋子太小的原因吧。大屋子应该就好了。
+
+【歌曲】会唱的歌基本都全了。不错。
+
+以后有机会来唱歌还是很划算的。
+                    </div>
+                    
+                    <div class="dishPic">
+                        
+                        
+                            <div class="imgFrame">
+                                <img src="http://qcloud.dpfile.com/pc/q8CduUgMMQBn9Ouh2QZ3axhIhfLqS3P-7eNm8LnN-bUiWckIbiCo3OTQ4xPEhrctGybIjx5eX6WNgCPvcASYAw.jpg" alt="" class="picExample"/>
+                            </div>
+                        
+                        
+                        
+                            <div class="imgFrame">
+                                <img src="http://qcloud.dpfile.com/pc/zEM4ELI2wu1hRfkJwUQGhikEedpq0yja4cGLt7t_QfhReOmlC99TbGR2C9Ecoc-zGybIjx5eX6WNgCPvcASYAw.jpg" alt="" class="picExample"/>
+                            </div>
+                        
+                        
+                        
+                            <div class="imgFrame">
+                                <img src="http://qcloud.dpfile.com/pc/rEht22AjIDVwyrd9T6mTI8W9P_BD1VX05dvQBJ-r1U0CEwvQWqoEv91v-RYbnq4nGybIjx5eX6WNgCPvcASYAw.jpg" alt="" class="picExample"/>
+                            </div>
+                        
+                        
+                        
+                        
+                    </div>
+                    
+                </a>
+            </div>
+        
+            <div class="singleUser" data-id="305239542">
+                <div class="user-pic">
+                    <img src="http://p0.meituan.net/userheadpicbackend/9f541fead4ddae1bd6bc4ba52ab8cdf51382697.jpg%4048w_48h_1e_1c_1l">
+                </div>
+                <a class="comment"
+                   onclick="_hip.push(['mv', {module:'shopinfo_viewreview',action:'click',shopid:'5447280'}]);"
+                   href="/shop/5447280/review_all" >
+                    <div class="username">
+                        仙小喵
+                    </div>
+                    <div class="info">
+                        <span class="star star-50"></span>
+                        
+                            
+                        
+                    </div>
+                    <div class="comment-entry">
+                        放学后带着娃和他同学一行四人来到金钱柜唱歌嗨皮。
+位置就在佳兆业的旁边。
+面积很大，空间宽敞，装修时尚简洁，走廊里的桌子上棋类也很丰富。
+在大众上团购的三小时欢唱券59大洋，到店后给安排的包房很宽敞，属于中包，不过，包房里有烟味儿，所以又换了一间，很宽敞，空气还好。
+歌曲和音质都很不错，感觉还是大包间声音更好，曲库的歌曲也很全，是很不错的ktv啦。
+小果盘68大洋，水果很新鲜，也不凉，孩子吃正好。普通矿泉水要八元左右，KTV里的物价大致相同，好在可以外带。
+KTV旁边有一个面包房很不错，面包种类丰富，口味很好，还有奶茶店，一个柠檬茶很好喝，建议去玩的小伙伴，提前购买好食品，充好电，就可以欢快地唱k啦！
+还会再来的哦！
+                    </div>
+                    
+                    <div class="dishPic">
+                        
+                        
+                            <div class="imgFrame">
+                                <img src="http://qcloud.dpfile.com/pc/IQZsFUAMCLJUHxE1f5Z6g5yTt15u5IO0FrlDhXMeF_QphJfrL7bpWNvTSHVIqFQMGybIjx5eX6WNgCPvcASYAw.jpg" alt="" class="picExample"/>
+                            </div>
+                        
+                        
+                        
+                            <div class="imgFrame">
+                                <img src="http://qcloud.dpfile.com/pc/ORfS0D8Be-yKnp81ss3ARvLhBXAOvxru1NqeizyX8SsiWckIbiCo3OTQ4xPEhrctGybIjx5eX6WNgCPvcASYAw.jpg" alt="" class="picExample"/>
+                            </div>
+                        
+                        
+                        
+                            <div class="imgFrame">
+                                <img src="http://qcloud.dpfile.com/pc/k0wlCorURdZxoG8IgV-76zGOtgKoJ453ZGBe3IR-u8YJBPuxaw_ytQFAmeRggNhOGybIjx5eX6WNgCPvcASYAw.jpg" alt="" class="picExample"/>
+                            </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                    
+                </a>
+            </div>
+        
+    </div>
+</div>
+<div class="standardBord"></div>
+
+        </div>
+    
+        <div class="J_otherinfo" >
+        
+    <div class="shopInfo">
+        <div class="infoTitle">
+            商户信息
+        </div>
+        <div class="otherInfo">
+            <div class="businessTime">
+                营业时间：12：00至6:00
+            </div>
+        </div>
+    </div>
+
+        </div>
+    
+        <div class="J_rank" >
+        
+
+        </div>
+    
+        <div class="J_branch" >
+        
+        </div>
+    
+        <div class="J_ad" >
+        
+<div class="J_midas-20004"></div>
+<div class="standardBord"></div>
+
+
+
+        </div>
+    
+        <div class="J_ugc" >
+        
+<div class="simpleFunction ">
+    <a class="functionItem"
+       onclick="_hip.push(['mv', {module:'shopinfo_toreview',action:'click',shopid:'5447280'}]);"
+       href="/shop/5447280/review" title="点评">
+        <div class="itemPicBg writecomment"></div>
+        写点评
+    </a>
+    <a class="functionItem" id="upload_pic"
+       onclick="_hip.push(['mv', {module:'shopinfo_uploadpic',action:'click',shopid:'5447280'}]);"
+       href="javascript:;" title="上传图片">
+        <div class="itemPicBg takephoto"></div>
+        传图片
+    </a>
+</div>
+
+        </div>
+    
+        <div class="J_breadcrumb" >
+        
+<div class="shop-crumbs">
+    
+    <a href="/shoplist/19/d/500/c/15/s/s_-1">大连K歌</a>
+    
+    <span class="arrowent"></span>
+    
+    
+    <a href="/shoplist/19/r/1849/c/15/s/s_-1">天津街/人民路</a>
+    
+    <span class="arrowent"></span>
+    
+    
+    <a href="/shoplist/19/r/1849/c/135/s/s_-1">KTV</a>
+    
+    <span class="arrowent"></span>
+    
+    
+    <a href="/shoplist/19/r/1849/c/2890/s/s_-1">量贩式KTV</a>
+    
+    
+</div>
+
+        </div>
+    
+        <div class="J_bottom-search" >
+        <div class="footer-tags-box">
+    <!--底部查找模块-->
+    <div class="home-search">
+        <form id="searchForm" method="post" action="/shoplist/19/search" autocomplete="off">
+            <input onfocus="_hip.push(['mv', {module:'shopinfo_search_keyword',action:'click',shopid:'5447280'}]);"
+                   type="text" name="keyword" placeholder="商户名、地址等" autocorrect="off" autocapitalize="off"
+                   autocomplete="off"/>
+            <a href="javascript:;"
+               onclick="_hip.push(['mv', {module:'shopinfo_keyword_success',action:'click',shopid:'5447280'}]);document.getElementById('searchForm').submit();"
+               class="search-icon"></a>
+        </form>
+    </div>
+</div>
+        </div>
+    
+        <div class="J_bottom-app" >
+        
+    <div class="bottom-two-btn">
+        <div class="firstBtnFrame">
+            <a href="http://evt.dianping.com/synthesislink/6166.html?shopId=5447280&amp;utm_=w_mshop_bottom&amp;utm_source=" class="firstBtn">打开APP</a>
+        </div>
+        <div class="secondBtnFrame">
+            <a href="http://m.dianping.com/download/redirect?id=9700" class="secondBtn">下载APP查看更多优惠</a>
+        </div>
+    </div>
+
+        </div>
+    
+        <div class="J_footer" >
+        <footer class="footer">
+    <a href="javascript:window.location='/my'" title="">我的</a><em>|</em>
+    <a href="javascript:window.location='/history'" title="">最近浏览</a><em>|</em>
+    <a href="javascript:window.location='http://evt.dianping.com/synthesislink/6513.html'">添加商户</a><em>|</em>
+    <a href="javascript:window.location='/feedback'" title="">意见反馈</a>
+    <br>
+    <a id="j-computer" href="http://www.dianping.com" title="">电脑版</a><em>|</em>
+    <a onclick="document.cookie='wapredirecttom=1; domain=.dianping.com; path=/';" href="http://wap.dianping.com" title="">标准版</a><em>|</em>
+    <a id="F_download" href="javascript:void(0)" title="">客户端</a>
+    <br>
+    <p class="copyright">copyright ©2016 dianping.com</p>
+</footer>
+        </div>
+    
+        <div class="J_gift" >
+        
+        </div>
+    
+
+
+<textarea style="display:none" id="shop-detail">
+     {"thumbUrl":"http://qcloud.dpfile.com/pc/NMN5fd6du96xcJR2O4kyR336C7u-VSAGj-GrzA_Y0AjRYGyP8AybpPZbV1VuhnXgtOnd3gXQdDYlAqlaVaAFeZ0rYYyiRo_EhzufqWWjTjs.jpg","shopId":"5447280","shopName":"金钱柜量贩KTV(天津街店)","address":"长江路168号佳兆业2楼","huiTime":"","phoneNum":"82505111"}
+ </textarea>
+<script src="//www.dpfile.com/app/app-m-module/static/js/common.min.3f67358773028c69a6c7d607c53773bd.js" type="text/javascript"></script>
+<script src="//www.dpfile.com/app/app-m-module/static/js/shop-entry.min.76a8518d86256e0a5a02666ce6e36161.js" type="text/javascript"></script>
+
+<script src="//www.dpfile.com/mod/neuron/7.1.4/neuron.js" id="neuron-js"></script>
+<script>neuron.config({path: "//www.dpfile.com/mod", loaded:["app-m-midas@0.6.2","m-midas-log@0.0.12","zepto@1.2.7","swipe@2.0.0","tpl@0.2.1","whereami@0.1.19","cookie@0.2.0"], graph:{"1":["0.0.12"],"2":["2.0.0"],"3":["0.2.1"],"5":["0.2.0"],"6":["0.1.2"],"9":["1.0.1"],"11":["1.0.0"],"10":["6.1.0",{"asap@^1.0.0":11}],"8":["1.2.2",{"mix@^1.0.1":9,"promise@^6.1.0":10}],"12":["0.1.0"],"7":["1.6.1",{"dpapp-core@^1.1.1":8,"mix@^1.0.1":9,"dpapp-share@~0.1.0":12}],"4":["0.1.19",{"cookie@~0.2.0":5,"weixin-js-sdk-loader@~0.1.0":6,"dpapp@^1.1.11":7}],"13":["1.2.7"],"0":["0.6.2",{"m-midas-log@~0.0.1":1,"swipe@^2.0.0":2,"tpl@~0.2.1":3,"whereami@~0.1.19":4,"zepto@^1.2.1":13}],"_":{"app-m-midas@*":0}}})</script>
+<script async src="//www.dpfile.com/concat/~mod~app-m-midas~0.6.2~app-m-midas.js,~mod~m-midas-log~0.0.12~m-midas-log.js,~mod~zepto~1.2.7~zepto.js,~mod~swipe~2.0.0~swipe.js,~mod~tpl~0.2.1~tpl.js,~mod~whereami~0.1.19~whereami.js,~mod~cookie~0.2.0~cookie.js"></script>
+<script>facade({entry:"app-m-midas", data: {
+query: {
+cityId:'19',
+userId:0,
+viewShopId: 5447280,
+shopType:15,
+lat:'0',
+lng:'0'
+},
+server: '/midasmkt/ajax/shopAdsMob',
+jsUrl:"//www.dpfile.com/s/j/app/midas/midas.min.a3b0723c9681ac0a76bdf4f12d71d02a.js"
+}});
+</script>
+
+</body>
+</html>

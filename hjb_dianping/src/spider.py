@@ -2,12 +2,21 @@
 __author__='hjb'
 import time,sys,random,json
 from fetcher import Fetcher
-
+import cityUtil
+'''
+程序路口，通过指定要采集的城市范围后，从cityUtil获得地级市列表，
+一个一个城市去采集，单个查询只限返回5k个商家结果。流程：
+1.用每个城市的cityID获取当前城市包含的地区ID
+2.遍历当前城市每个地区，获得包含的业务ID
+3.遍历当前地区中的每个业务ID，组成一个查询
+4.对当前查询进行翻页获取当前查询的所有内容
+'''
+#获取地区包含的业务
 def getCategory(content):
     content = content[content.find('(') + 1:content.rfind(')')]
     data = json.loads(content)  # utf-8
     recordCount = data.get('recordCount')
-    if recordCount<5100:  #记录少于5k可以一次遍历完
+    if recordCount<5500:  #记录少于5k可以一次遍历完
         return []
     categoryNavs=data.get('categoryNavs')
     category_list=[]
@@ -15,9 +24,10 @@ def getCategory(content):
         parentId=cate.get('parentId')
         id=cate.get('id')
         if (parentId==0 or parentId==10 or parentId==20 or parentId==90 ) and id!=10 and id!=20 and id!=90:
-            category_list.append(id)
+            category_list.append(id)#添加大类和那些商家数量比较多的子类
     return category_list
 
+#获取城市包含的地区
 def getRegion(content):
     content = content[content.find('(') + 1:content.rfind(')')]
     data = json.loads(content)  # utf-8
@@ -88,8 +98,6 @@ def crawOneCity(fetcher,cityID,start):
         print 'Error :Get start=0 fail,end up this city!'
         return
 
-    # startbug=False#debug
-    # startbug2=False
     region_lsit,recodCnt = getRegion(content) #获取业务种类和地区
     print'Debug: city %s has %s shop recod!' % (cityID,recodCnt)
     if len(region_lsit) >0 :
@@ -102,6 +110,11 @@ def crawOneCity(fetcher,cityID,start):
             time.sleep(1)
             url = fetcher.formUrl(start=0, regionid=region,categoryid=0, cityid=cityID)
             content = fetcher.downLoadContent(url, times=5)  # content is utf-8
+            if content==None:
+                with open('../result/fail_url_%s.txt' % cityID, 'a') as f:  # 记录失败的下来
+                    f.write('fail_region=%s,%s' % (region, url))
+                    f.close()
+                continue
             categorys = getCategory(content)  # 获取业务种类和地区
             if  len(categorys) >0:
                 for category in categorys:
@@ -129,7 +142,7 @@ def crawOneCity(fetcher,cityID,start):
         print 'Error :Get start=0 fail,end up this city!'
     print '---end crawling city=%s,%s---' % (cityID, fetcher.getTime())
 
-
+#翻页爬取某个搜索组合
 def crawOneSearch(fetcher, regionid, categoryid, cityID):
     isEnd = False
     fail_con = 0
@@ -162,20 +175,18 @@ def crawOneSearch(fetcher, regionid, categoryid, cityID):
 
 
 if __name__=='__main__':
-    if len(sys.argv)!=2:
-        print 'usge: python spider.py startCityID endCityID'
+    if len(sys.argv)!=3:
+        print 'usge: python spider.py startCityID endCityID\n cityID is list in ./src cityList.txt'
         sys.exit()
 
     print '---start dianping.com spider---%s' %time.strftime('%Y-%m-%d %X', time.localtime())
     search_host='mapi.dianping.com'
-
-    import cityUtil
     allCity, bigCity=cityUtil.getCity(False)
     if bigCity==None or len(bigCity)<1:
-        print '---getCity fail.----'
+        print 'Error:getCity fail.'
         sys.exit()
     else:
-        print '---get %s bigCity---' % len(bigCity)
+        print 'Debug:get %s bigCity' % len(bigCity)
 
     fet=Fetcher(search_host)
     for c in bigCity:

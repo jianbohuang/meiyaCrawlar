@@ -140,8 +140,11 @@ import json
 # print(s.decode())
 # a=[1,2]
 # b=(1,2)
-#python
-import sys
-print 'run:',sys.argv[0]
-for i in range(1,len(sys.argv)):
-    print sys.argv[i]
+# import sys
+# print 'run:',sys.argv[0]
+# for i in range(1,len(sys.argv)):
+#     print sys.argv[i]
+
+a=[1,2,3]
+b=a[2:]
+print b
